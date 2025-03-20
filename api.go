@@ -1,4 +1,4 @@
-package compareNames
+package api
 
 import (
 	"encoding/json"
@@ -6,7 +6,9 @@ import (
 	"log"
 	"net/http"
 
+	"github.com/gorilla/mux"
 	"github.com/x0rium/compareNames/matcher"
+	"github.com/x0rium/compareNames/middleware"
 )
 
 // RequestBody структура для запроса к API
@@ -98,14 +100,15 @@ func sendErrorResponse(w http.ResponseWriter, message string, statusCode int) {
 }
 
 // SetupRoutes настраивает маршруты для API
-func SetupRoutes() *http.ServeMux {
-	mux := http.NewServeMux()
+func SetupRoutes() http.Handler {
+	router := mux.NewRouter()
 
 	// API endpoint для сравнения имен
-	mux.HandleFunc("/api/match_names", MatchNamesHandler)
+	router.HandleFunc("/api/match_names", MatchNamesHandler).Methods("POST")
 
 	// Endpoint для проверки работоспособности API
-	mux.HandleFunc("/health", HealthCheckHandler)
+	router.HandleFunc("/health", HealthCheckHandler).Methods("GET")
 
-	return mux
+	// Применяем middleware для логирования
+	return middleware.Logging(router)
 }

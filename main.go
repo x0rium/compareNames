@@ -1,6 +1,7 @@
-package compareNames
+package main
 
 import (
+	"context"
 	"flag"
 	"fmt"
 	"log"
@@ -44,5 +45,14 @@ func main() {
 	<-quit
 
 	log.Println("Выключение сервера...")
+	
+	// Создаем контекст с таймаутом для graceful shutdown
+	ctx, cancel := context.WithTimeout(context.Background(), 10*time.Second)
+	defer cancel()
+	
+	if err := server.Shutdown(ctx); err != nil {
+		log.Fatalf("Ошибка при остановке сервера: %v", err)
+	}
+	
 	log.Println("API сервер выключен")
 }

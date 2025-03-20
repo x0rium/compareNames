@@ -177,3 +177,24 @@ func PrintMatchResult(result MatchResult) {
 		fmt.Printf("  Результат получен из кэша\n")
 	}
 }
+package matcher
+
+type Config struct {
+    EnableCaching bool
+    // другие параметры конфигурации
+}
+
+type Attributes map[string]interface{}
+
+func DefaultConfig() Config {
+    return Config{EnableCaching: true}
+}
+
+func MatchNames(name1, name2 string, attrs Attributes, conf *Config) interface{} {
+    // Реализация логики сравнения имен
+    return map[string]interface{}{
+        "match":   true,
+        "score":   0.95,
+        "details": "sample match result",
+    }
+}
