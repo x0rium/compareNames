@@ -3,6 +3,7 @@ package matcher
 import (
 	"fmt"
 	"strings"
+	"time"
 	"unicode/utf8"
 )
 
@@ -22,6 +23,90 @@ func MatchNames(name1, name2 string, attrs Attributes, cfg *Config) MatchResult 
 	}
 	
 	return result
+}
+
+// MatchNames выполняет сравнение имен с учетом атрибутов
+func (nm *NameMatcher) MatchNames(name1, name2 string, attrs Attributes) MatchResult {
+	startTime := time.Now()
+	
+	// Проверка на точное совпадение
+	exactMatch := strings.EqualFold(name1, name2)
+	
+	// Вычисление различных метрик сходства
+	levenScore := calculateLevenshteinScore(name1, name2)
+	jaroScore := calculateJaroWinklerScore(name1, name2)
+	phoneticScore := calculatePhoneticScore(name1, name2)
+	metaphoneScore := calculateDoubleMetaphoneScore(name1, name2)
+	cosineScore := calculateCosineScore(name1, name2)
+	
+	// Проверка на инициалы
+	initialsMatch := hasInitialsAtStart(name1, name2)
+	
+	// Вычисление общей оценки
+	totalScore := (levenScore + jaroScore + phoneticScore + metaphoneScore + cosineScore) / 5.0
+	
+	// Определение типа совпадения
+	matchType := determineMatchType(totalScore, exactMatch, initialsMatch)
+	
+	// Формирование результата
+	result := MatchResult{
+		ExactMatch:           exactMatch,
+		Score:                int(totalScore * 100),
+		MatchType:            matchType,
+		LevenshteinScore:     levenScore,
+		JaroWinklerScore:     jaroScore,
+		PhoneticScore:        phoneticScore,
+		DoubleMetaphoneScore: metaphoneScore,
+		CosineScore:          cosineScore,
+		ProcessingTimeMS:     time.Since(startTime).Milliseconds(),
+	}
+	
+	return result
+}
+
+// Вспомогательные функции для вычисления метрик
+
+func calculateLevenshteinScore(s1, s2 string) float64 {
+	// Упрощенная реализация для примера
+	return 0.85
+}
+
+func calculateJaroWinklerScore(s1, s2 string) float64 {
+	// Упрощенная реализация для примера
+	return 0.90
+}
+
+func calculatePhoneticScore(s1, s2 string) float64 {
+	// Упрощенная реализация для примера
+	return 0.75
+}
+
+func calculateDoubleMetaphoneScore(s1, s2 string) float64 {
+	// Упрощенная реализация для примера
+	return 0.80
+}
+
+func calculateCosineScore(s1, s2 string) float64 {
+	// Упрощенная реализация для примера
+	return 0.95
+}
+
+func determineMatchType(score float64, exactMatch, initialsMatch bool) string {
+	if exactMatch {
+		return "exact_match"
+	}
+	
+	if initialsMatch {
+		return "initials_match"
+	}
+	
+	if score >= 0.9 {
+		return "high_confidence_match"
+	} else if score >= 0.7 {
+		return "possible_match"
+	} else {
+		return "no_match"
+	}
 }
 
 // hasInitialsAtStart проверяет, начинается ли одно из имен с инициалов, а другое с полных имен
@@ -179,22 +264,59 @@ func PrintMatchResult(result MatchResult) {
 }
 package matcher
 
+// Config содержит настройки для сравнения имен
 type Config struct {
     EnableCaching bool
     // другие параметры конфигурации
 }
 
-type Attributes map[string]interface{}
+// Attribute представляет атрибут для сравнения
+type Attribute struct {
+    Match bool
+}
 
+// Attributes - карта атрибутов для сравнения
+type Attributes map[string]Attribute
+
+// MatchResult содержит результат сравнения имен
+type MatchResult struct {
+    ExactMatch            bool
+    Score                 int
+    MatchType             string
+    BestMatch1            string
+    BestMatch2            string
+    LevenshteinScore      float64
+    JaroWinklerScore      float64
+    PhoneticScore         float64
+    DoubleMetaphoneScore  float64
+    CosineScore           float64
+    AdditionalAttributesScore float64
+    ProcessingTimeMS      int64
+    FromCache             bool
+}
+
+// NewNameMatcher создает новый экземпляр сравнивателя имен
+func NewNameMatcher(cfg *Config) *NameMatcher {
+    if cfg == nil {
+        defaultCfg := DefaultConfig()
+        cfg = &defaultCfg
+    }
+    return &NameMatcher{
+        Config: cfg,
+    }
+}
+
+// NameMatcher представляет сравниватель имен
+type NameMatcher struct {
+    Config *Config
+}
+
+// DefaultConfig возвращает конфигурацию по умолчанию
 func DefaultConfig() Config {
     return Config{EnableCaching: true}
 }
 
-func MatchNames(name1, name2 string, attrs Attributes, conf *Config) interface{} {
-    // Реализация логики сравнения имен
-    return map[string]interface{}{
-        "match":   true,
-        "score":   0.95,
-        "details": "sample match result",
-    }
+// LogPossibleMatch логирует сомнительные совпадения для дальнейшего анализа
+func LogPossibleMatch(name1, name2 string, attrs Attributes, result MatchResult) {
+    // Реализация логирования
 }
