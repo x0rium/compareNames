@@ -25,3 +25,4 @@ go.work.sum
 .env
 start-aider-sta.sh
 .aider*
+e2e/name_matching.log
