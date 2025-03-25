@@ -1,0 +1,178 @@
+[
+  {
+    "name": "Exact Match - Simple",
+    "name1": "Иван Иванов",
+    "name2": "Иван Иванов",
+    "expectedScore": 100,
+    "expectedMatchType": "exact_match",
+    "expectedExactMatch": true
+  },
+  {
+    "name": "Exact Match - Full Name",
+    "name1": "Иванов Иван Петрович",
+    "name2": "Иванов Иван Петрович",
+    "expectedScore": 100,
+    "expectedMatchType": "exact_match",
+    "expectedExactMatch": true
+  },
+  {
+    "name": "Transliteration - Simple",
+    "name1": "Олег",
+    "name2": "Oleg",
+    "expectedScore": 92,
+    "expectedMatchType": "match",
+    "expectedExactMatch": false
+  },
+  {
+    "name": "Transliteration - Full Name",
+    "name1": "Иванов Иван Петрович",
+    "name2": "Ivanov Ivan Petrovich",
+    "expectedScore": 92,
+    "expectedMatchType": "match",
+    "expectedExactMatch": false
+  },
+  {
+    "name": "Initials - Simple",
+    "name1": "J Smith",
+    "name2": "John Smith",
+    "expectedScore": 77,
+    "expectedMatchType": "possible_match",
+    "expectedExactMatch": false
+  },
+  {
+    "name": "Initials - Latin",
+    "name1": "Ivanov I.P.",
+    "name2": "Ivanov Ivan Petrovich",
+    "expectedScore": 77,
+    "expectedMatchType": "possible_match",
+    "expectedExactMatch": false
+  },
+  {
+    "name": "Initials - Cyrillic",
+    "name1": "Иванов И.П.",
+    "name2": "Иванов Иван Петрович",
+    "expectedScore": 77,
+    "expectedMatchType": "possible_match",
+    "expectedExactMatch": false
+  },
+  {
+    "name": "Negative - Different Names",
+    "name1": "Иванов Иван",
+    "name2": "Петров Петр",
+    "expectedScore": 26,
+    "expectedMatchType": "no_match",
+    "expectedExactMatch": false
+  },
+  {
+    "name": "Negative - Parts Permutation",
+    "name1": "Иванов Иван Петрович",
+    "name2": "Петрович Иван Иванов",
+    "expectedScore": 92,
+    "expectedMatchType": "match",
+    "expectedExactMatch": false
+  },
+  {
+    "name": "Negative - Different Patronymic",
+    "name1": "Иванов Иван Петрович",
+    "name2": "Иванов Иван Иванович",
+    "expectedScore": 83,
+    "expectedMatchType": "possible_match",
+    "expectedExactMatch": false
+  },
+  {
+    "name": "Boundary - Similar Names",
+    "name1": "Olga",
+    "name2": "Olenka",
+    "expectedScore": 70,
+    "expectedMatchType": "possible_match",
+    "expectedExactMatch": false
+  },
+  {
+    "name": "Boundary - Gender Forms",
+    "name1": "Иванов Иван Иванович",
+    "name2": "Иванова Иванна Ивановна",
+    "expectedScore": 82,
+    "expectedMatchType": "possible_match",
+    "expectedExactMatch": false
+  },
+  {
+    "name": "Boundary - Hyphenated Names",
+    "name1": "Петрова-Сидорова Анна Ивановна",
+    "name2": "Петрова Сидорова А.И.",
+    "expectedScore": 79,
+    "expectedMatchType": "possible_match",
+    "expectedExactMatch": false
+  },
+  {
+    "name": "Boundary - Spelling Variations",
+    "name1": "Dmitry",
+    "name2": "Dmitri",
+    "expectedScore": 95,
+    "expectedMatchType": "match",
+    "expectedExactMatch": false
+  },
+  {
+    "name": "Transliteration With Typo",
+    "name1": "Александр",
+    "name2": "Alexsandr",
+    "expectedScore": 93,
+    "expectedMatchType": "match",
+    "expectedExactMatch": false
+  },
+  {
+    "name": "Hyphenated With Transliteration",
+    "name1": "Иванов-Петров Александр",
+    "name2": "Alexander Ivanov-Petrov",
+    "expectedScore": 92,
+    "expectedMatchType": "match",
+    "expectedExactMatch": false
+  },
+  {
+    "name": "Multiple Transliteration Standards",
+    "name1": "Юрий",
+    "name2": "Yuriy",
+    "expectedScore": 92,
+    "expectedMatchType": "match",
+    "expectedExactMatch": false
+  },
+  {
+    "name": "Multiple Transliteration Standards - Alt",
+    "name1": "Юрий",
+    "name2": "Jurij",
+    "expectedScore": 92,
+    "expectedMatchType": "match",
+    "expectedExactMatch": false
+  },
+  {
+    "name": "Typo - One Character",
+    "name1": "Михаил",
+    "name2": "Михаал",
+    "expectedScore": 83,
+    "expectedMatchType": "possible_match",
+    "expectedExactMatch": false
+  },
+  {
+    "name": "Without Patronymic",
+    "name1": "Петров Сергей",
+    "name2": "Петров Сергей Иванович",
+    "expectedScore": 75,
+    "expectedMatchType": "possible_match",
+    "expectedExactMatch": false
+  },
+  {
+    "name": "Name Form Variation",
+    "name1": "Александр",
+    "name2": "Саша",
+    "expectedScore": 70,
+    "expectedMatchType": "possible_match",
+    "expectedExactMatch": false
+  },
+  {
+    "name": "Name Order Permutation",
+    "name1": "Иван Петров",
+    "name2": "Петров Иван",
+    "expectedScore": 92,
+    "expectedMatchType": "match",
+    "expectedExactMatch": false
+  }
+]

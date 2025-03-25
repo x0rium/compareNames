@@ -1,0 +1,345 @@
+{
+  "timestamp": "2025-03-21T01:02:12.279224+03:00",
+  "name1": "Smith John",
+  "name2": "Смит Джон",
+  "score": 79,
+  "match_type": "possible_match",
+  "metrics": {
+    "levenshtein": 1,
+    "jaro_winkler": 0.9377777777777778,
+    "phonetic": 0.8,
+    "double_metaphone": 1,
+    "cosine": 0
+  },
+  "processing_time_ms": 1
+}
+{
+  "timestamp": "2025-03-21T01:04:07.781948+03:00",
+  "name1": "Ivanov I.P.",
+  "name2": "Ivanov Ivan Petrovich",
+  "score": 77,
+  "match_type": "possible_match",
+  "metrics": {
+    "levenshtein": 0.8272727272727273,
+    "jaro_winkler": 0.8363636363636364,
+    "phonetic": 0.8,
+    "double_metaphone": 1,
+    "cosine": 0.6471502289294341
+  },
+  "processing_time_ms": 0
+}
+{
+  "timestamp": "2025-03-21T01:54:52.706059+03:00",
+  "name1": "Dmitry",
+  "name2": "Dmitri",
+  "score": 87,
+  "match_type": "possible_match",
+  "metrics": {
+    "levenshtein": 1,
+    "jaro_winkler": 0.9333333333333333,
+    "phonetic": 1,
+    "double_metaphone": 1,
+    "cosine": 0.75
+  },
+  "processing_time_ms": 0
+}
+{
+  "timestamp": "2025-03-24T18:09:37.629572+03:00",
+  "name1": "Александр",
+  "name2": "Виктор",
+  "score": 66,
+  "match_type": "possible_match",
+  "metrics": {
+    "levenshtein": 0.61,
+    "jaro_winkler": 0.52,
+    "phonetic": 0.8,
+    "double_metaphone": 0.7,
+    "cosine": 0
+  },
+  "processing_time_ms": 0
+}
+{
+  "timestamp": "2025-03-24T18:09:47.643128+03:00",
+  "name1": "Александр",
+  "name2": "Виктор",
+  "score": 66,
+  "match_type": "possible_match",
+  "metrics": {
+    "levenshtein": 0.61,
+    "jaro_winkler": 0.52,
+    "phonetic": 0.8,
+    "double_metaphone": 0.7,
+    "cosine": 0
+  },
+  "processing_time_ms": 0
+}
+{
+  "timestamp": "2025-03-24T18:10:19.084606+03:00",
+  "name1": "Иван",
+  "name2": "Ivan",
+  "score": 50,
+  "match_type": "possible_match",
+  "metrics": {
+    "levenshtein": 0.5,
+    "jaro_winkler": 0,
+    "phonetic": 0.8,
+    "double_metaphone": 0.7,
+    "cosine": 0
+  },
+  "processing_time_ms": 0
+}
+{
+  "timestamp": "2025-03-24T18:10:19.152118+03:00",
+  "name1": "Иванов-Петров Михаил",
+  "name2": "М. Иванов-Петров",
+  "score": 77,
+  "match_type": "possible_match",
+  "metrics": {
+    "levenshtein": 0.74,
+    "jaro_winkler": 0.82,
+    "phonetic": 0.8,
+    "double_metaphone": 0.7,
+    "cosine": 0
+  },
+  "processing_time_ms": 0
+}
+{
+  "timestamp": "2025-03-24T18:10:19.184933+03:00",
+  "name1": "Александр Сергеевич",
+  "name2": "Александр",
+  "score": 78,
+  "match_type": "possible_match",
+  "metrics": {
+    "levenshtein": 0.73,
+    "jaro_winkler": 0.89,
+    "phonetic": 0.8,
+    "double_metaphone": 0.7,
+    "cosine": 0
+  },
+  "processing_time_ms": 0
+}
+{
+  "timestamp": "2025-03-24T18:10:19.21919+03:00",
+  "name1": "Александр",
+  "name2": "Виктор",
+  "score": 66,
+  "match_type": "possible_match",
+  "metrics": {
+    "levenshtein": 0.61,
+    "jaro_winkler": 0.52,
+    "phonetic": 0.8,
+    "double_metaphone": 0.7,
+    "cosine": 0
+  },
+  "processing_time_ms": 0
+}
+{
+  "timestamp": "2025-03-24T18:10:19.253765+03:00",
+  "name1": "Иван Петров",
+  "name2": "Сергей Иванов",
+  "score": 62,
+  "match_type": "possible_match",
+  "metrics": {
+    "levenshtein": 0.6,
+    "jaro_winkler": 0.39,
+    "phonetic": 0.8,
+    "double_metaphone": 0.7,
+    "cosine": 0
+  },
+  "processing_time_ms": 0
+}
+{
+  "timestamp": "2025-03-25T10:52:05.39752+03:00",
+  "name1": "Иван",
+  "name2": "Ivan",
+  "score": 75,
+  "match_type": "possible_match",
+  "metrics": {
+    "levenshtein": 1,
+    "jaro_winkler": 1,
+    "phonetic": 1,
+    "double_metaphone": 0,
+    "cosine": 0
+  },
+  "processing_time_ms": 0
+}
+{
+  "timestamp": "2025-03-25T10:52:13.269841+03:00",
+  "name1": "Иван",
+  "name2": "Ivan",
+  "score": 75,
+  "match_type": "possible_match",
+  "metrics": {
+    "levenshtein": 1,
+    "jaro_winkler": 1,
+    "phonetic": 1,
+    "double_metaphone": 0,
+    "cosine": 0
+  },
+  "processing_time_ms": 0
+}
+{
+  "timestamp": "2025-03-25T10:52:22.712426+03:00",
+  "name1": "Иванов Сергей Петрович",
+  "name2": "Ivanov Sergey Petrovich",
+  "score": 75,
+  "match_type": "possible_match",
+  "metrics": {
+    "levenshtein": 1,
+    "jaro_winkler": 1,
+    "phonetic": 1,
+    "double_metaphone": 0,
+    "cosine": 0
+  },
+  "processing_time_ms": 0
+}
+{
+  "timestamp": "2025-03-25T10:54:03.010862+03:00",
+  "name1": "Иван",
+  "name2": "Ivan",
+  "score": 75,
+  "match_type": "possible_match",
+  "metrics": {
+    "levenshtein": 1,
+    "jaro_winkler": 1,
+    "phonetic": 1,
+    "double_metaphone": 0,
+    "cosine": 0
+  },
+  "processing_time_ms": 0
+}
+{
+  "timestamp": "2025-03-25T10:54:18.625979+03:00",
+  "name1": "Иван",
+  "name2": "Ivan",
+  "score": 75,
+  "match_type": "possible_match",
+  "metrics": {
+    "levenshtein": 1,
+    "jaro_winkler": 1,
+    "phonetic": 1,
+    "double_metaphone": 0,
+    "cosine": 0
+  },
+  "processing_time_ms": 0
+}
+{
+  "timestamp": "2025-03-25T10:54:35.674857+03:00",
+  "name1": "Иванов Сергей",
+  "name2": "Sergey Ivanov",
+  "score": 75,
+  "match_type": "possible_match",
+  "metrics": {
+    "levenshtein": 1,
+    "jaro_winkler": 1,
+    "phonetic": 1,
+    "double_metaphone": 0,
+    "cosine": 0
+  },
+  "processing_time_ms": 0
+}
+{
+  "timestamp": "2025-03-25T10:55:38.560617+03:00",
+  "name1": "Иванов Сергей",
+  "name2": "Sergey Ivanov",
+  "score": 75,
+  "match_type": "possible_match",
+  "metrics": {
+    "levenshtein": 1,
+    "jaro_winkler": 1,
+    "phonetic": 1,
+    "double_metaphone": 0,
+    "cosine": 0
+  },
+  "processing_time_ms": 0
+}
+{
+  "timestamp": "2025-03-25T10:55:44.603681+03:00",
+  "name1": "Иванов Сергей",
+  "name2": "Sergey Ivanov",
+  "score": 75,
+  "match_type": "possible_match",
+  "metrics": {
+    "levenshtein": 1,
+    "jaro_winkler": 1,
+    "phonetic": 1,
+    "double_metaphone": 0,
+    "cosine": 0
+  },
+  "processing_time_ms": 0
+}
+{
+  "timestamp": "2025-03-25T10:57:25.981302+03:00",
+  "name1": "Иван",
+  "name2": "Ivan",
+  "score": 75,
+  "match_type": "possible_match",
+  "metrics": {
+    "levenshtein": 1,
+    "jaro_winkler": 1,
+    "phonetic": 1,
+    "double_metaphone": 0,
+    "cosine": 0
+  },
+  "processing_time_ms": 0
+}
+{
+  "timestamp": "2025-03-25T10:57:33.25067+03:00",
+  "name1": "Иван",
+  "name2": "Ivan",
+  "score": 75,
+  "match_type": "possible_match",
+  "metrics": {
+    "levenshtein": 1,
+    "jaro_winkler": 1,
+    "phonetic": 1,
+    "double_metaphone": 0,
+    "cosine": 0
+  },
+  "processing_time_ms": 0
+}
+{
+  "timestamp": "2025-03-25T10:57:41.968145+03:00",
+  "name1": "Иванов Сергей",
+  "name2": "Sergey Ivanov",
+  "score": 75,
+  "match_type": "possible_match",
+  "metrics": {
+    "levenshtein": 1,
+    "jaro_winkler": 1,
+    "phonetic": 1,
+    "double_metaphone": 0,
+    "cosine": 0
+  },
+  "processing_time_ms": 0
+}
+{
+  "timestamp": "2025-03-25T10:57:51.03158+03:00",
+  "name1": "Алексей Смирнов",
+  "name2": "Alex Smirnoff",
+  "score": 62,
+  "match_type": "possible_match",
+  "metrics": {
+    "levenshtein": 0.6,
+    "jaro_winkler": 0.89,
+    "phonetic": 1,
+    "double_metaphone": 0,
+    "cosine": 0
+  },
+  "processing_time_ms": 0
+}
+{
+  "timestamp": "2025-03-25T10:58:02.476002+03:00",
+  "name1": "Иванов-Петров Александр",
+  "name2": "Alexander Ivanov-Petrov",
+  "score": 71,
+  "match_type": "possible_match",
+  "metrics": {
+    "levenshtein": 0.87,
+    "jaro_winkler": 0.97,
+    "phonetic": 1,
+    "double_metaphone": 0,
+    "cosine": 0
+  },
+  "processing_time_ms": 0
+}

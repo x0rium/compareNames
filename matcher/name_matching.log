@@ -1,0 +1,735 @@
+{"timestamp":"2025-03-20T13:12:25+03:00","name1":"Евгений Белов","name2":"Eugene Belov","match_type":"possible_match","score":70,"details":{"best_match1":"","best_match2":"","jaro_winkler_score":1,"levenshtein_score":1,"phonetic_score":0},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:12:25+03:00","name1":"Johnson Michael","name2":"Johson Michael","match_type":"possible_match","score":79,"details":{"best_match1":"johnson michael","best_match2":"johson michael","jaro_winkler_score":0.9677777777777778,"levenshtein_score":1,"phonetic_score":0.5},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:12:25+03:00","name1":"Иванов Петр Сергеевич","name2":"Петров Иван Сергеевич","match_type":"possible_match","score":89,"details":{"best_match1":"иванов петр сергеевич","best_match2":"иван петров сергеевич","jaro_winkler_score":0.9700000000000001,"levenshtein_score":1,"phonetic_score":1},"process_time_ms":4}
+{"timestamp":"2025-03-20T13:12:25+03:00","name1":"Петров И. С.","name2":"Петров Иван Сергеевич","match_type":"possible_match","score":82,"details":{"best_match1":"и петров","best_match2":"иван петров","jaro_winkler_score":0.8349206349206348,"levenshtein_score":0.9142857142857144,"phonetic_score":1},"process_time_ms":3}
+{"timestamp":"2025-03-20T13:12:25+03:00","name1":"","name2":"Иванов Иван","match_type":"possible_match","score":70,"details":{"best_match1":"","best_match2":"","jaro_winkler_score":1,"levenshtein_score":1,"phonetic_score":0},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:12:25+03:00","name1":"","name2":"","match_type":"possible_match","score":70,"details":{"best_match1":"","best_match2":"","jaro_winkler_score":1,"levenshtein_score":1,"phonetic_score":0},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:12:25+03:00","name1":"","name2":"Иванов","match_type":"possible_match","score":70,"details":{"best_match1":"","best_match2":"","jaro_winkler_score":1,"levenshtein_score":1,"phonetic_score":0},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:12:25+03:00","name1":"Иванов","name2":"","match_type":"possible_match","score":70,"details":{"best_match1":"","best_match2":"","jaro_winkler_score":1,"levenshtein_score":1,"phonetic_score":0},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:12:25+03:00","name1":"Иванов Иван Иванович Иваныч","name2":"Иванов","match_type":"possible_match","score":85,"details":{"best_match1":"иванов иван иванович иваныч","best_match2":"иванов","jaro_winkler_score":0.8470588235294118,"levenshtein_score":1,"phonetic_score":1},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:12:32+03:00","name1":"Евгений Белов","name2":"Eugene Belov","match_type":"possible_match","score":70,"details":{"best_match1":"","best_match2":"","jaro_winkler_score":1,"levenshtein_score":1,"phonetic_score":0},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:12:32+03:00","name1":"Johnson Michael","name2":"Johson Michael","match_type":"possible_match","score":79,"details":{"best_match1":"johnson michael","best_match2":"johson michael","jaro_winkler_score":0.9677777777777778,"levenshtein_score":1,"phonetic_score":0.5},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:12:32+03:00","name1":"Иванов Петр Сергеевич","name2":"Петров Иван Сергеевич","match_type":"possible_match","score":89,"details":{"best_match1":"иванов петр сергеевич","best_match2":"иван петров сергеевич","jaro_winkler_score":0.9700000000000001,"levenshtein_score":1,"phonetic_score":1},"process_time_ms":5}
+{"timestamp":"2025-03-20T13:12:32+03:00","name1":"Петров И. С.","name2":"Петров Иван Сергеевич","match_type":"possible_match","score":82,"details":{"best_match1":"и петров","best_match2":"иван петров","jaro_winkler_score":0.8349206349206348,"levenshtein_score":0.9142857142857144,"phonetic_score":1},"process_time_ms":3}
+{"timestamp":"2025-03-20T13:12:32+03:00","name1":"","name2":"Иванов Иван","match_type":"possible_match","score":70,"details":{"best_match1":"","best_match2":"","jaro_winkler_score":1,"levenshtein_score":1,"phonetic_score":0},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:12:32+03:00","name1":"","name2":"","match_type":"possible_match","score":70,"details":{"best_match1":"","best_match2":"","jaro_winkler_score":1,"levenshtein_score":1,"phonetic_score":0},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:12:32+03:00","name1":"","name2":"Иванов","match_type":"possible_match","score":70,"details":{"best_match1":"","best_match2":"","jaro_winkler_score":1,"levenshtein_score":1,"phonetic_score":0},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:12:32+03:00","name1":"Иванов","name2":"","match_type":"possible_match","score":70,"details":{"best_match1":"","best_match2":"","jaro_winkler_score":1,"levenshtein_score":1,"phonetic_score":0},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:12:32+03:00","name1":"Иванов Иван Иванович Иваныч","name2":"Иванов","match_type":"possible_match","score":85,"details":{"best_match1":"иванов иван иванович иваныч","best_match2":"иванов","jaro_winkler_score":0.8470588235294118,"levenshtein_score":1,"phonetic_score":1},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:13:46+03:00","name1":"Евгений Белов","name2":"Eugene Belov","match_type":"possible_match","score":70,"details":{"best_match1":"","best_match2":"","jaro_winkler_score":1,"levenshtein_score":1,"phonetic_score":0},"process_time_ms":1}
+{"timestamp":"2025-03-20T13:13:46+03:00","name1":"Johnson Michael","name2":"Johson Michael","match_type":"possible_match","score":79,"details":{"best_match1":"johnson michael","best_match2":"johson michael","jaro_winkler_score":0.9677777777777778,"levenshtein_score":1,"phonetic_score":0.5},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:13:46+03:00","name1":"Иванов Петр Сергеевич","name2":"Петров Иван Сергеевич","match_type":"possible_match","score":89,"details":{"best_match1":"иванов петр сергеевич","best_match2":"иван петров сергеевич","jaro_winkler_score":0.9700000000000001,"levenshtein_score":1,"phonetic_score":1},"process_time_ms":5}
+{"timestamp":"2025-03-20T13:13:46+03:00","name1":"Петров И. С.","name2":"Петров Иван Сергеевич","match_type":"possible_match","score":82,"details":{"best_match1":"и петров","best_match2":"иван петров","jaro_winkler_score":0.8349206349206348,"levenshtein_score":0.9142857142857144,"phonetic_score":1},"process_time_ms":3}
+{"timestamp":"2025-03-20T13:13:46+03:00","name1":"","name2":"Иванов Иван","match_type":"possible_match","score":70,"details":{"best_match1":"","best_match2":"","jaro_winkler_score":1,"levenshtein_score":1,"phonetic_score":0},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:13:46+03:00","name1":"","name2":"","match_type":"possible_match","score":70,"details":{"best_match1":"","best_match2":"","jaro_winkler_score":1,"levenshtein_score":1,"phonetic_score":0},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:13:46+03:00","name1":"","name2":"Иванов","match_type":"possible_match","score":70,"details":{"best_match1":"","best_match2":"","jaro_winkler_score":1,"levenshtein_score":1,"phonetic_score":0},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:13:46+03:00","name1":"Иванов","name2":"","match_type":"possible_match","score":70,"details":{"best_match1":"","best_match2":"","jaro_winkler_score":1,"levenshtein_score":1,"phonetic_score":0},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:13:46+03:00","name1":"Иванов Иван Иванович Иваныч","name2":"Иванов","match_type":"possible_match","score":85,"details":{"best_match1":"иванов иван иванович иваныч","best_match2":"иванов","jaro_winkler_score":0.8470588235294118,"levenshtein_score":1,"phonetic_score":1},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:14:34+03:00","name1":"Евгений Белов","name2":"Eugene Belov","match_type":"possible_match","score":70,"details":{"best_match1":"","best_match2":"","jaro_winkler_score":1,"levenshtein_score":1,"phonetic_score":0},"process_time_ms":1}
+{"timestamp":"2025-03-20T13:14:34+03:00","name1":"Johnson Michael","name2":"Johson Michael","match_type":"possible_match","score":79,"details":{"best_match1":"johnson michael","best_match2":"johson michael","jaro_winkler_score":0.9677777777777778,"levenshtein_score":1,"phonetic_score":0.5},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:14:34+03:00","name1":"Иванов Петр Сергеевич","name2":"Петров Иван Сергеевич","match_type":"possible_match","score":89,"details":{"best_match1":"иванов петр сергеевич","best_match2":"иван петров сергеевич","jaro_winkler_score":0.9700000000000001,"levenshtein_score":1,"phonetic_score":1},"process_time_ms":4}
+{"timestamp":"2025-03-20T13:14:34+03:00","name1":"Петров И. С.","name2":"Петров Иван Сергеевич","match_type":"possible_match","score":82,"details":{"best_match1":"и петров","best_match2":"иван петров","jaro_winkler_score":0.8349206349206348,"levenshtein_score":0.9142857142857144,"phonetic_score":1},"process_time_ms":3}
+{"timestamp":"2025-03-20T13:14:34+03:00","name1":"Иванов Иван Иванович Иваныч","name2":"Иванов","match_type":"possible_match","score":85,"details":{"best_match1":"иванов иван иванович иваныч","best_match2":"иванов","jaro_winkler_score":0.8470588235294118,"levenshtein_score":1,"phonetic_score":1},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:14:43+03:00","name1":"Евгений Белов","name2":"Eugene Belov","match_type":"possible_match","score":70,"details":{"best_match1":"","best_match2":"","jaro_winkler_score":1,"levenshtein_score":1,"phonetic_score":0},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:14:43+03:00","name1":"Johnson Michael","name2":"Johson Michael","match_type":"possible_match","score":79,"details":{"best_match1":"johnson michael","best_match2":"johson michael","jaro_winkler_score":0.9677777777777778,"levenshtein_score":1,"phonetic_score":0.5},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:14:43+03:00","name1":"Иванов Петр Сергеевич","name2":"Петров Иван Сергеевич","match_type":"possible_match","score":89,"details":{"best_match1":"иванов петр сергеевич","best_match2":"иван петров сергеевич","jaro_winkler_score":0.9700000000000001,"levenshtein_score":1,"phonetic_score":1},"process_time_ms":5}
+{"timestamp":"2025-03-20T13:14:43+03:00","name1":"Петров И. С.","name2":"Петров Иван Сергеевич","match_type":"possible_match","score":82,"details":{"best_match1":"и петров","best_match2":"иван петров","jaro_winkler_score":0.8349206349206348,"levenshtein_score":0.9142857142857144,"phonetic_score":1},"process_time_ms":3}
+{"timestamp":"2025-03-20T13:14:43+03:00","name1":"Иванов Иван Иванович Иваныч","name2":"Иванов","match_type":"possible_match","score":85,"details":{"best_match1":"иванов иван иванович иваныч","best_match2":"иванов","jaro_winkler_score":0.8470588235294118,"levenshtein_score":1,"phonetic_score":1},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:14:53+03:00","name1":"Евгений Белов","name2":"Eugene Belov","match_type":"possible_match","score":70,"details":{"best_match1":"","best_match2":"","jaro_winkler_score":1,"levenshtein_score":1,"phonetic_score":0},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:14:53+03:00","name1":"Johnson Michael","name2":"Johson Michael","match_type":"possible_match","score":79,"details":{"best_match1":"johnson michael","best_match2":"johson michael","jaro_winkler_score":0.9677777777777778,"levenshtein_score":1,"phonetic_score":0.5},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:14:53+03:00","name1":"Иванов Петр Сергеевич","name2":"Петров Иван Сергеевич","match_type":"possible_match","score":89,"details":{"best_match1":"иванов петр сергеевич","best_match2":"иван петров сергеевич","jaro_winkler_score":0.9700000000000001,"levenshtein_score":1,"phonetic_score":1},"process_time_ms":5}
+{"timestamp":"2025-03-20T13:14:53+03:00","name1":"Петров И. С.","name2":"Петров Иван Сергеевич","match_type":"possible_match","score":82,"details":{"best_match1":"и петров","best_match2":"иван петров","jaro_winkler_score":0.8349206349206348,"levenshtein_score":0.9142857142857144,"phonetic_score":1},"process_time_ms":3}
+{"timestamp":"2025-03-20T13:14:53+03:00","name1":"Иванов Иван Иванович Иваныч","name2":"Иванов","match_type":"possible_match","score":85,"details":{"best_match1":"иванов иван иванович иваныч","best_match2":"иванов","jaro_winkler_score":0.8470588235294118,"levenshtein_score":1,"phonetic_score":1},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:15:03+03:00","name1":"Иванов Иван Иванович Иваныч","name2":"Иванов","match_type":"possible_match","score":85,"details":{"best_match1":"иванов иван иванович иваныч","best_match2":"иванов","jaro_winkler_score":0.8470588235294118,"levenshtein_score":1,"phonetic_score":1},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:15:34+03:00","name1":"Евгений Белов","name2":"Eugene Belov","match_type":"possible_match","score":70,"details":{"best_match1":"","best_match2":"","jaro_winkler_score":1,"levenshtein_score":1,"phonetic_score":0},"process_time_ms":1}
+{"timestamp":"2025-03-20T13:15:34+03:00","name1":"Johnson Michael","name2":"Johson Michael","match_type":"possible_match","score":79,"details":{"best_match1":"johnson michael","best_match2":"johson michael","jaro_winkler_score":0.9677777777777778,"levenshtein_score":1,"phonetic_score":0.5},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:15:34+03:00","name1":"Иванов Петр Сергеевич","name2":"Петров Иван Сергеевич","match_type":"possible_match","score":89,"details":{"best_match1":"иванов петр сергеевич","best_match2":"иван петров сергеевич","jaro_winkler_score":0.9700000000000001,"levenshtein_score":1,"phonetic_score":1},"process_time_ms":5}
+{"timestamp":"2025-03-20T13:15:34+03:00","name1":"Петров И. С.","name2":"Петров Иван Сергеевич","match_type":"possible_match","score":82,"details":{"best_match1":"и петров","best_match2":"иван петров","jaro_winkler_score":0.8349206349206348,"levenshtein_score":0.9142857142857144,"phonetic_score":1},"process_time_ms":3}
+{"timestamp":"2025-03-20T13:15:34+03:00","name1":"Иванов Иван Иванович Иваныч","name2":"Иванов","match_type":"possible_match","score":85,"details":{"best_match1":"иванов иван иванович иваныч","best_match2":"иванов","jaro_winkler_score":0.8470588235294118,"levenshtein_score":1,"phonetic_score":1},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:22:13+03:00","name1":"Алексей Смирнов","name2":"Alexey Smirnov","match_type":"possible_match","score":80,"details":{"best_match1":"смирнов алексей","best_match2":"smirnov alexey","jaro_winkler_score":0.959047619047619,"levenshtein_score":1,"phonetic_score":1},"process_time_ms":1}
+{"timestamp":"2025-03-20T13:22:13+03:00","name1":"Алексей Смирнов","name2":"Aleksei Smirnov","match_type":"possible_match","score":81,"details":{"best_match1":"смирнов алексей","best_match2":"smirnov aleksei","jaro_winkler_score":0.9733333333333334,"levenshtein_score":1,"phonetic_score":1},"process_time_ms":1}
+{"timestamp":"2025-03-20T13:22:13+03:00","name1":"Евгений Белов","name2":"Eugene Belov","match_type":"possible_match","score":70,"details":{"best_match1":"","best_match2":"","jaro_winkler_score":1,"levenshtein_score":1,"phonetic_score":0},"process_time_ms":1}
+{"timestamp":"2025-03-20T13:22:13+03:00","name1":"Johnson Michael","name2":"Johson Michael","match_type":"possible_match","score":76,"details":{"best_match1":"johnson michael","best_match2":"johson michael","jaro_winkler_score":0.9677777777777778,"levenshtein_score":1,"phonetic_score":0.5},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:22:13+03:00","name1":"Иванов Петр Сергеевич","name2":"Петров Иван Сергеевич","match_type":"possible_match","score":88,"details":{"best_match1":"иванов петр сергеевич","best_match2":"иван петров сергеевич","jaro_winkler_score":0.9700000000000001,"levenshtein_score":1,"phonetic_score":1},"process_time_ms":5}
+{"timestamp":"2025-03-20T13:22:13+03:00","name1":"Петров И. С.","name2":"Петров Иван Сергеевич","match_type":"possible_match","score":79,"details":{"best_match1":"и петров","best_match2":"иван петров","jaro_winkler_score":0.8349206349206348,"levenshtein_score":0.9142857142857144,"phonetic_score":1},"process_time_ms":3}
+{"timestamp":"2025-03-20T13:22:13+03:00","name1":"Петров Александр","name2":"Petrov Alexander","attributes":{"birth_date":{"match":true}},"match_type":"possible_match","score":80,"details":{"best_match1":"петров александр","best_match2":"petrov alexander","jaro_winkler_score":0.95,"levenshtein_score":1,"phonetic_score":1},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:22:13+03:00","name1":"Петров Александр","name2":"Petrov Alexander","attributes":{"country":{"match":true}},"match_type":"possible_match","score":80,"details":{"best_match1":"петров александр","best_match2":"petrov alexander","jaro_winkler_score":0.95,"levenshtein_score":1,"phonetic_score":1},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:22:13+03:00","name1":"Петров Александр","name2":"Petrov Alexander","attributes":{"birth_date":{"match":true},"country":{"match":true}},"match_type":"possible_match","score":80,"details":{"best_match1":"петров александр","best_match2":"petrov alexander","jaro_winkler_score":0.95,"levenshtein_score":1,"phonetic_score":1},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:22:13+03:00","name1":"Іваненко Сергій","name2":"Ivanenko Serhii","match_type":"possible_match","score":70,"details":{"best_match1":"","best_match2":"","jaro_winkler_score":1,"levenshtein_score":1,"phonetic_score":0},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:22:13+03:00","name1":"Олексей Шевченко","name2":"Oleksii Shevchenko","match_type":"possible_match","score":81,"details":{"best_match1":"шевченко олексей","best_match2":"shevchenko oleksii","jaro_winkler_score":0.9777777777777777,"levenshtein_score":1,"phonetic_score":1},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:22:13+03:00","name1":"Иванов Иван Иванович Иваныч","name2":"Иванов","match_type":"possible_match","score":84,"details":{"best_match1":"иванов иван иванович иваныч","best_match2":"иванов","jaro_winkler_score":0.8470588235294118,"levenshtein_score":1,"phonetic_score":1},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:22:13+03:00","name1":"Петров Александр","name2":"Ptrov Aleksander","match_type":"possible_match","score":80,"details":{"best_match1":"александр петров","best_match2":"aleksander ptrov","jaro_winkler_score":0.975,"levenshtein_score":1,"phonetic_score":1},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:22:21+03:00","name1":"Алексей Смирнов","name2":"Alexey Smirnov","match_type":"possible_match","score":80,"details":{"best_match1":"смирнов алексей","best_match2":"smirnov alexey","jaro_winkler_score":0.959047619047619,"levenshtein_score":1,"phonetic_score":1},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:22:21+03:00","name1":"Алексей Смирнов","name2":"Aleksei Smirnov","match_type":"possible_match","score":81,"details":{"best_match1":"смирнов алексей","best_match2":"smirnov aleksei","jaro_winkler_score":0.9733333333333334,"levenshtein_score":1,"phonetic_score":1},"process_time_ms":1}
+{"timestamp":"2025-03-20T13:22:21+03:00","name1":"Евгений Белов","name2":"Eugene Belov","match_type":"possible_match","score":70,"details":{"best_match1":"","best_match2":"","jaro_winkler_score":1,"levenshtein_score":1,"phonetic_score":0},"process_time_ms":1}
+{"timestamp":"2025-03-20T13:22:21+03:00","name1":"Johnson Michael","name2":"Johson Michael","match_type":"possible_match","score":76,"details":{"best_match1":"johnson michael","best_match2":"johson michael","jaro_winkler_score":0.9677777777777778,"levenshtein_score":1,"phonetic_score":0.5},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:22:21+03:00","name1":"Иванов Петр Сергеевич","name2":"Петров Иван Сергеевич","match_type":"possible_match","score":88,"details":{"best_match1":"иванов петр сергеевич","best_match2":"иван петров сергеевич","jaro_winkler_score":0.9700000000000001,"levenshtein_score":1,"phonetic_score":1},"process_time_ms":4}
+{"timestamp":"2025-03-20T13:22:21+03:00","name1":"Петров И. С.","name2":"Петров Иван Сергеевич","match_type":"possible_match","score":79,"details":{"best_match1":"и петров","best_match2":"иван петров","jaro_winkler_score":0.8349206349206348,"levenshtein_score":0.9142857142857144,"phonetic_score":1},"process_time_ms":3}
+{"timestamp":"2025-03-20T13:22:21+03:00","name1":"Петров Александр","name2":"Petrov Alexander","attributes":{"birth_date":{"match":true}},"match_type":"possible_match","score":80,"details":{"best_match1":"петров александр","best_match2":"petrov alexander","jaro_winkler_score":0.95,"levenshtein_score":1,"phonetic_score":1},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:22:21+03:00","name1":"Петров Александр","name2":"Petrov Alexander","attributes":{"country":{"match":true}},"match_type":"possible_match","score":80,"details":{"best_match1":"петров александр","best_match2":"petrov alexander","jaro_winkler_score":0.95,"levenshtein_score":1,"phonetic_score":1},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:22:21+03:00","name1":"Петров Александр","name2":"Petrov Alexander","attributes":{"birth_date":{"match":true},"country":{"match":true}},"match_type":"possible_match","score":80,"details":{"best_match1":"петров александр","best_match2":"petrov alexander","jaro_winkler_score":0.95,"levenshtein_score":1,"phonetic_score":1},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:22:21+03:00","name1":"Іваненко Сергій","name2":"Ivanenko Serhii","match_type":"possible_match","score":70,"details":{"best_match1":"","best_match2":"","jaro_winkler_score":1,"levenshtein_score":1,"phonetic_score":0},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:22:21+03:00","name1":"Олексей Шевченко","name2":"Oleksii Shevchenko","match_type":"possible_match","score":81,"details":{"best_match1":"шевченко олексей","best_match2":"shevchenko oleksii","jaro_winkler_score":0.9777777777777777,"levenshtein_score":1,"phonetic_score":1},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:22:21+03:00","name1":"Иванов Иван Иванович Иваныч","name2":"Иванов","match_type":"possible_match","score":84,"details":{"best_match1":"иванов иван иванович иваныч","best_match2":"иванов","jaro_winkler_score":0.8470588235294118,"levenshtein_score":1,"phonetic_score":1},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:22:21+03:00","name1":"Петров Александр","name2":"Ptrov Aleksander","match_type":"possible_match","score":80,"details":{"best_match1":"александр петров","best_match2":"aleksander ptrov","jaro_winkler_score":0.975,"levenshtein_score":1,"phonetic_score":1},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:23:50+03:00","name1":"Алексей Смирнов","name2":"Alexey Smirnov","match_type":"possible_match","score":80,"details":{"best_match1":"смирнов алексей","best_match2":"smirnov alexey","jaro_winkler_score":0.959047619047619,"levenshtein_score":1,"phonetic_score":1},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:23:50+03:00","name1":"Алексей Смирнов","name2":"Aleksei Smirnov","match_type":"possible_match","score":81,"details":{"best_match1":"смирнов алексей","best_match2":"smirnov aleksei","jaro_winkler_score":0.9733333333333334,"levenshtein_score":1,"phonetic_score":1},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:23:50+03:00","name1":"Евгений Белов","name2":"Eugene Belov","match_type":"possible_match","score":70,"details":{"best_match1":"","best_match2":"","jaro_winkler_score":1,"levenshtein_score":1,"phonetic_score":0},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:23:50+03:00","name1":"Johnson Michael","name2":"Johson Michael","match_type":"possible_match","score":76,"details":{"best_match1":"johnson michael","best_match2":"johson michael","jaro_winkler_score":0.9677777777777778,"levenshtein_score":1,"phonetic_score":0.5},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:23:50+03:00","name1":"Иванов Петр Сергеевич","name2":"Петров Иван Сергеевич","match_type":"possible_match","score":88,"details":{"best_match1":"иванов петр сергеевич","best_match2":"иван петров сергеевич","jaro_winkler_score":0.9700000000000001,"levenshtein_score":1,"phonetic_score":1},"process_time_ms":5}
+{"timestamp":"2025-03-20T13:23:50+03:00","name1":"Петров И. С.","name2":"Петров Иван Сергеевич","match_type":"possible_match","score":79,"details":{"best_match1":"и петров","best_match2":"иван петров","jaro_winkler_score":0.8349206349206348,"levenshtein_score":0.9142857142857144,"phonetic_score":1},"process_time_ms":4}
+{"timestamp":"2025-03-20T13:23:50+03:00","name1":"Петров Александр","name2":"Petrov Alexander","attributes":{"birth_date":{"match":true}},"match_type":"possible_match","score":80,"details":{"best_match1":"петров александр","best_match2":"petrov alexander","jaro_winkler_score":0.95,"levenshtein_score":1,"phonetic_score":1},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:23:50+03:00","name1":"Петров Александр","name2":"Petrov Alexander","attributes":{"country":{"match":true}},"match_type":"possible_match","score":80,"details":{"best_match1":"петров александр","best_match2":"petrov alexander","jaro_winkler_score":0.95,"levenshtein_score":1,"phonetic_score":1},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:23:50+03:00","name1":"Петров Александр","name2":"Petrov Alexander","attributes":{"birth_date":{"match":true},"country":{"match":true}},"match_type":"possible_match","score":80,"details":{"best_match1":"петров александр","best_match2":"petrov alexander","jaro_winkler_score":0.95,"levenshtein_score":1,"phonetic_score":1},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:23:50+03:00","name1":"Іваненко Сергій","name2":"Ivanenko Serhii","match_type":"possible_match","score":70,"details":{"best_match1":"","best_match2":"","jaro_winkler_score":1,"levenshtein_score":1,"phonetic_score":0},"process_time_ms":1}
+{"timestamp":"2025-03-20T13:23:50+03:00","name1":"Олексей Шевченко","name2":"Oleksii Shevchenko","match_type":"possible_match","score":81,"details":{"best_match1":"шевченко олексей","best_match2":"shevchenko oleksii","jaro_winkler_score":0.9777777777777777,"levenshtein_score":1,"phonetic_score":1},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:23:50+03:00","name1":"Иванов Иван Иванович Иваныч","name2":"Иванов","match_type":"possible_match","score":84,"details":{"best_match1":"иванов иван иванович иваныч","best_match2":"иванов","jaro_winkler_score":0.8470588235294118,"levenshtein_score":1,"phonetic_score":1},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:23:50+03:00","name1":"Петров Александр","name2":"Ptrov Aleksander","match_type":"possible_match","score":80,"details":{"best_match1":"александр петров","best_match2":"aleksander ptrov","jaro_winkler_score":0.975,"levenshtein_score":1,"phonetic_score":1},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:27:03+03:00","name1":"Алексей Смирнов","name2":"Alexey Smirnov","match_type":"possible_match","score":80,"details":{"best_match1":"смирнов алексей","best_match2":"smirnov alexey","jaro_winkler_score":0.959047619047619,"levenshtein_score":1,"phonetic_score":1},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:27:03+03:00","name1":"Алексей Смирнов","name2":"Aleksei Smirnov","match_type":"possible_match","score":81,"details":{"best_match1":"смирнов алексей","best_match2":"smirnov aleksei","jaro_winkler_score":0.9733333333333334,"levenshtein_score":1,"phonetic_score":1},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:27:03+03:00","name1":"Евгений Белов","name2":"Eugene Belov","match_type":"possible_match","score":70,"details":{"best_match1":"","best_match2":"","jaro_winkler_score":1,"levenshtein_score":1,"phonetic_score":0},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:27:03+03:00","name1":"Johnson Michael","name2":"Johson Michael","match_type":"possible_match","score":76,"details":{"best_match1":"johnson michael","best_match2":"johson michael","jaro_winkler_score":0.9677777777777778,"levenshtein_score":1,"phonetic_score":0.5},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:27:03+03:00","name1":"Иванов Петр Сергеевич","name2":"Петров Иван Сергеевич","match_type":"possible_match","score":88,"details":{"best_match1":"иванов петр сергеевич","best_match2":"иван петров сергеевич","jaro_winkler_score":0.9700000000000001,"levenshtein_score":1,"phonetic_score":1},"process_time_ms":3}
+{"timestamp":"2025-03-20T13:27:03+03:00","name1":"Петров И. С.","name2":"Петров Иван Сергеевич","match_type":"possible_match","score":79,"details":{"best_match1":"и петров","best_match2":"иван петров","jaro_winkler_score":0.8349206349206348,"levenshtein_score":0.9142857142857144,"phonetic_score":1},"process_time_ms":2}
+{"timestamp":"2025-03-20T13:27:03+03:00","name1":"Петров Александр","name2":"Petrov Alexander","attributes":{"birth_date":{"match":true}},"match_type":"possible_match","score":80,"details":{"best_match1":"петров александр","best_match2":"petrov alexander","jaro_winkler_score":0.95,"levenshtein_score":1,"phonetic_score":1},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:27:03+03:00","name1":"Петров Александр","name2":"Petrov Alexander","attributes":{"country":{"match":true}},"match_type":"possible_match","score":80,"details":{"best_match1":"петров александр","best_match2":"petrov alexander","jaro_winkler_score":0.95,"levenshtein_score":1,"phonetic_score":1},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:27:03+03:00","name1":"Петров Александр","name2":"Petrov Alexander","attributes":{"birth_date":{"match":true},"country":{"match":true}},"match_type":"possible_match","score":80,"details":{"best_match1":"петров александр","best_match2":"petrov alexander","jaro_winkler_score":0.95,"levenshtein_score":1,"phonetic_score":1},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:27:03+03:00","name1":"Іваненко Сергій","name2":"Ivanenko Serhii","match_type":"possible_match","score":70,"details":{"best_match1":"","best_match2":"","jaro_winkler_score":1,"levenshtein_score":1,"phonetic_score":0},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:27:03+03:00","name1":"Олексей Шевченко","name2":"Oleksii Shevchenko","match_type":"possible_match","score":81,"details":{"best_match1":"шевченко олексей","best_match2":"shevchenko oleksii","jaro_winkler_score":0.9777777777777777,"levenshtein_score":1,"phonetic_score":1},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:27:03+03:00","name1":"Иванов Иван Иванович Иваныч","name2":"Иванов","match_type":"possible_match","score":84,"details":{"best_match1":"иванов иван иванович иваныч","best_match2":"иванов","jaro_winkler_score":0.8470588235294118,"levenshtein_score":1,"phonetic_score":1},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:27:03+03:00","name1":"Петров Александр","name2":"Ptrov Aleksander","match_type":"possible_match","score":80,"details":{"best_match1":"александр петров","best_match2":"aleksander ptrov","jaro_winkler_score":0.975,"levenshtein_score":1,"phonetic_score":1},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:27:38+03:00","name1":"Алексей Смирнов","name2":"Alexey Smirnov","match_type":"possible_match","score":80,"details":{"best_match1":"смирнов алексей","best_match2":"smirnov alexey","jaro_winkler_score":0.959047619047619,"levenshtein_score":1,"phonetic_score":1},"process_time_ms":1}
+{"timestamp":"2025-03-20T13:27:38+03:00","name1":"Алексей Смирнов","name2":"Aleksei Smirnov","match_type":"possible_match","score":81,"details":{"best_match1":"смирнов алексей","best_match2":"smirnov aleksei","jaro_winkler_score":0.9733333333333334,"levenshtein_score":1,"phonetic_score":1},"process_time_ms":1}
+{"timestamp":"2025-03-20T13:27:38+03:00","name1":"Евгений Белов","name2":"Eugene Belov","match_type":"possible_match","score":70,"details":{"best_match1":"","best_match2":"","jaro_winkler_score":1,"levenshtein_score":1,"phonetic_score":0},"process_time_ms":1}
+{"timestamp":"2025-03-20T13:27:38+03:00","name1":"Johnson Michael","name2":"Johson Michael","match_type":"possible_match","score":76,"details":{"best_match1":"johnson michael","best_match2":"johson michael","jaro_winkler_score":0.9677777777777778,"levenshtein_score":1,"phonetic_score":0.5},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:27:38+03:00","name1":"Петров И. С.","name2":"Петров Иван Сергеевич","match_type":"possible_match","score":79,"details":{"best_match1":"и петров","best_match2":"иван петров","jaro_winkler_score":0.8349206349206348,"levenshtein_score":0.9142857142857144,"phonetic_score":1},"process_time_ms":3}
+{"timestamp":"2025-03-20T13:27:38+03:00","name1":"Петров Александр","name2":"Petrov Alexander","attributes":{"birth_date":{"match":true}},"match_type":"possible_match","score":80,"details":{"best_match1":"петров александр","best_match2":"petrov alexander","jaro_winkler_score":0.95,"levenshtein_score":1,"phonetic_score":1},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:27:38+03:00","name1":"Петров Александр","name2":"Petrov Alexander","attributes":{"country":{"match":true}},"match_type":"possible_match","score":80,"details":{"best_match1":"петров александр","best_match2":"petrov alexander","jaro_winkler_score":0.95,"levenshtein_score":1,"phonetic_score":1},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:27:38+03:00","name1":"Петров Александр","name2":"Petrov Alexander","attributes":{"birth_date":{"match":true},"country":{"match":true}},"match_type":"possible_match","score":80,"details":{"best_match1":"петров александр","best_match2":"petrov alexander","jaro_winkler_score":0.95,"levenshtein_score":1,"phonetic_score":1},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:27:38+03:00","name1":"Іваненко Сергій","name2":"Ivanenko Serhii","match_type":"possible_match","score":70,"details":{"best_match1":"","best_match2":"","jaro_winkler_score":1,"levenshtein_score":1,"phonetic_score":0},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:27:38+03:00","name1":"Олексей Шевченко","name2":"Oleksii Shevchenko","match_type":"possible_match","score":81,"details":{"best_match1":"шевченко олексей","best_match2":"shevchenko oleksii","jaro_winkler_score":0.9777777777777777,"levenshtein_score":1,"phonetic_score":1},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:27:38+03:00","name1":"Иванов Иван Иванович Иваныч","name2":"Иванов","match_type":"possible_match","score":84,"details":{"best_match1":"иванов иван иванович иваныч","best_match2":"иванов","jaro_winkler_score":0.8470588235294118,"levenshtein_score":1,"phonetic_score":1},"process_time_ms":0}
+{"timestamp":"2025-03-20T13:27:38+03:00","name1":"Петров Александр","name2":"Ptrov Aleksander","match_type":"possible_match","score":80,"details":{"best_match1":"александр петров","best_match2":"aleksander ptrov","jaro_winkler_score":0.975,"levenshtein_score":1,"phonetic_score":1},"process_time_ms":0}
+MATCHER: 2025/03/20 13:39:59 logger.go:24: Инициализация логгера успешно завершена
+MATCHER: 2025/03/20 13:39:59 logger.go:58: [POSSIBLE_MATCH] Алексей Смирнов <-> Alexey Smirnov, Оценка: 80, Лев: 1.000, Джаро: 0.959, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:39:59 logger.go:58: [POSSIBLE_MATCH] Алексей Смирнов <-> Aleksei Smirnov, Оценка: 81, Лев: 1.000, Джаро: 0.973, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:39:59 logger.go:58: [POSSIBLE_MATCH] Евгений Белов <-> Eugene Belov, Оценка: 70, Лев: 1.000, Джаро: 1.000, Фонетика: 0.000, Косинус: 1.000
+MATCHER: 2025/03/20 13:39:59 logger.go:58: [POSSIBLE_MATCH] Johnson Michael <-> Johson Michael, Оценка: 76, Лев: 1.000, Джаро: 0.968, Фонетика: 0.500, Косинус: 0.801
+MATCHER: 2025/03/20 13:39:59 logger.go:58: [POSSIBLE_MATCH] Петров И. С. <-> Петров Иван Сергеевич, Оценка: 79, Лев: 0.914, Джаро: 0.835, Фонетика: 1.000, Косинус: 0.700
+MATCHER: 2025/03/20 13:39:59 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [birth_date:true]
+MATCHER: 2025/03/20 13:39:59 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [country:true]
+MATCHER: 2025/03/20 13:39:59 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [country:true, birth_date:true]
+MATCHER: 2025/03/20 13:39:59 logger.go:58: [POSSIBLE_MATCH] Іваненко Сергій <-> Ivanenko Serhii, Оценка: 70, Лев: 1.000, Джаро: 1.000, Фонетика: 0.000, Косинус: 1.000
+MATCHER: 2025/03/20 13:39:59 logger.go:58: [POSSIBLE_MATCH] Олексей Шевченко <-> Oleksii Shevchenko, Оценка: 81, Лев: 1.000, Джаро: 0.978, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:39:59 logger.go:58: [POSSIBLE_MATCH] Иванов Иван Иванович Иваныч <-> Иванов, Оценка: 84, Лев: 1.000, Джаро: 0.847, Фонетика: 1.000, Косинус: 0.873
+MATCHER: 2025/03/20 13:39:59 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Ptrov Aleksander, Оценка: 80, Лев: 1.000, Джаро: 0.975, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:40:39 logger.go:24: Инициализация логгера успешно завершена
+MATCHER: 2025/03/20 13:40:39 logger.go:58: [POSSIBLE_MATCH] Алексей Смирнов <-> Alexey Smirnov, Оценка: 80, Лев: 1.000, Джаро: 0.959, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:40:39 logger.go:58: [POSSIBLE_MATCH] Алексей Смирнов <-> Aleksei Smirnov, Оценка: 81, Лев: 1.000, Джаро: 0.973, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:40:39 logger.go:58: [POSSIBLE_MATCH] Евгений Белов <-> Eugene Belov, Оценка: 70, Лев: 1.000, Джаро: 1.000, Фонетика: 0.000, Косинус: 1.000
+MATCHER: 2025/03/20 13:40:39 logger.go:58: [POSSIBLE_MATCH] Johnson Michael <-> Johson Michael, Оценка: 76, Лев: 1.000, Джаро: 0.968, Фонетика: 0.500, Косинус: 0.801
+MATCHER: 2025/03/20 13:40:39 logger.go:58: [POSSIBLE_MATCH] Петров И. С. <-> Петров Иван Сергеевич, Оценка: 79, Лев: 0.914, Джаро: 0.835, Фонетика: 1.000, Косинус: 0.700
+MATCHER: 2025/03/20 13:40:39 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [birth_date:true]
+MATCHER: 2025/03/20 13:40:39 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [country:true]
+MATCHER: 2025/03/20 13:40:39 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [birth_date:true, country:true]
+MATCHER: 2025/03/20 13:40:39 logger.go:58: [POSSIBLE_MATCH] Іваненко Сергій <-> Ivanenko Serhii, Оценка: 70, Лев: 1.000, Джаро: 1.000, Фонетика: 0.000, Косинус: 1.000
+MATCHER: 2025/03/20 13:40:39 logger.go:58: [POSSIBLE_MATCH] Олексей Шевченко <-> Oleksii Shevchenko, Оценка: 81, Лев: 1.000, Джаро: 0.978, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:40:39 logger.go:58: [POSSIBLE_MATCH] Иванов Иван Иванович Иваныч <-> Иванов, Оценка: 84, Лев: 1.000, Джаро: 0.847, Фонетика: 1.000, Косинус: 0.873
+MATCHER: 2025/03/20 13:40:39 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Ptrov Aleksander, Оценка: 80, Лев: 1.000, Джаро: 0.975, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:40:57 logger.go:24: Инициализация логгера успешно завершена
+MATCHER: 2025/03/20 13:40:57 logger.go:58: [POSSIBLE_MATCH] Алексей Смирнов <-> Alexey Smirnov, Оценка: 80, Лев: 1.000, Джаро: 0.959, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:40:57 logger.go:58: [POSSIBLE_MATCH] Алексей Смирнов <-> Aleksei Smirnov, Оценка: 81, Лев: 1.000, Джаро: 0.973, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:40:57 logger.go:58: [POSSIBLE_MATCH] Евгений Белов <-> Eugene Belov, Оценка: 70, Лев: 1.000, Джаро: 1.000, Фонетика: 0.000, Косинус: 1.000
+MATCHER: 2025/03/20 13:40:57 logger.go:58: [POSSIBLE_MATCH] Johnson Michael <-> Johson Michael, Оценка: 76, Лев: 1.000, Джаро: 0.968, Фонетика: 0.500, Косинус: 0.801
+MATCHER: 2025/03/20 13:40:58 logger.go:58: [POSSIBLE_MATCH] Петров И. С. <-> Петров Иван Сергеевич, Оценка: 79, Лев: 0.914, Джаро: 0.835, Фонетика: 1.000, Косинус: 0.700
+MATCHER: 2025/03/20 13:40:58 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [birth_date:true]
+MATCHER: 2025/03/20 13:40:58 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [country:true]
+MATCHER: 2025/03/20 13:40:58 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [birth_date:true, country:true]
+MATCHER: 2025/03/20 13:40:58 logger.go:58: [POSSIBLE_MATCH] Іваненко Сергій <-> Ivanenko Serhii, Оценка: 70, Лев: 1.000, Джаро: 1.000, Фонетика: 0.000, Косинус: 1.000
+MATCHER: 2025/03/20 13:40:58 logger.go:58: [POSSIBLE_MATCH] Олексей Шевченко <-> Oleksii Shevchenko, Оценка: 81, Лев: 1.000, Джаро: 0.978, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:40:58 logger.go:58: [POSSIBLE_MATCH] Иванов Иван Иванович Иваныч <-> Иванов, Оценка: 84, Лев: 1.000, Джаро: 0.847, Фонетика: 1.000, Косинус: 0.873
+MATCHER: 2025/03/20 13:40:58 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Ptrov Aleksander, Оценка: 80, Лев: 1.000, Джаро: 0.975, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:41:58 logger.go:24: Инициализация логгера успешно завершена
+MATCHER: 2025/03/20 13:41:58 logger.go:58: [POSSIBLE_MATCH] Алексей Смирнов <-> Alexey Smirnov, Оценка: 80, Лев: 1.000, Джаро: 0.959, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:41:58 logger.go:58: [POSSIBLE_MATCH] Алексей Смирнов <-> Aleksei Smirnov, Оценка: 81, Лев: 1.000, Джаро: 0.973, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:41:58 logger.go:58: [POSSIBLE_MATCH] Евгений Белов <-> Eugene Belov, Оценка: 70, Лев: 1.000, Джаро: 1.000, Фонетика: 0.000, Косинус: 1.000
+MATCHER: 2025/03/20 13:41:58 logger.go:58: [POSSIBLE_MATCH] Johnson Michael <-> Johson Michael, Оценка: 76, Лев: 1.000, Джаро: 0.968, Фонетика: 0.500, Косинус: 0.801
+MATCHER: 2025/03/20 13:41:58 logger.go:58: [POSSIBLE_MATCH] Петров И. С. <-> Петров Иван Сергеевич, Оценка: 79, Лев: 0.914, Джаро: 0.835, Фонетика: 1.000, Косинус: 0.700
+MATCHER: 2025/03/20 13:41:58 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [birth_date:true]
+MATCHER: 2025/03/20 13:41:58 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [country:true]
+MATCHER: 2025/03/20 13:41:58 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [birth_date:true, country:true]
+MATCHER: 2025/03/20 13:41:58 logger.go:58: [POSSIBLE_MATCH] Іваненко Сергій <-> Ivanenko Serhii, Оценка: 70, Лев: 1.000, Джаро: 1.000, Фонетика: 0.000, Косинус: 1.000
+MATCHER: 2025/03/20 13:41:58 logger.go:58: [POSSIBLE_MATCH] Олексей Шевченко <-> Oleksii Shevchenko, Оценка: 81, Лев: 1.000, Джаро: 0.978, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:41:58 logger.go:58: [POSSIBLE_MATCH] Иванов Иван Иванович Иваныч <-> Иванов, Оценка: 84, Лев: 1.000, Джаро: 0.847, Фонетика: 1.000, Косинус: 0.873
+MATCHER: 2025/03/20 13:41:58 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Ptrov Aleksander, Оценка: 80, Лев: 1.000, Джаро: 0.975, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:42:19 logger.go:24: Инициализация логгера успешно завершена
+MATCHER: 2025/03/20 13:42:19 logger.go:58: [POSSIBLE_MATCH] Алексей Смирнов <-> Alexey Smirnov, Оценка: 80, Лев: 1.000, Джаро: 0.959, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:42:19 logger.go:58: [POSSIBLE_MATCH] Алексей Смирнов <-> Aleksei Smirnov, Оценка: 81, Лев: 1.000, Джаро: 0.973, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:42:19 logger.go:58: [POSSIBLE_MATCH] Евгений Белов <-> Eugene Belov, Оценка: 70, Лев: 1.000, Джаро: 1.000, Фонетика: 0.000, Косинус: 1.000
+MATCHER: 2025/03/20 13:42:19 logger.go:58: [POSSIBLE_MATCH] Johnson Michael <-> Johson Michael, Оценка: 76, Лев: 1.000, Джаро: 0.968, Фонетика: 0.500, Косинус: 0.801
+MATCHER: 2025/03/20 13:42:19 logger.go:58: [POSSIBLE_MATCH] Петров И. С. <-> Петров Иван Сергеевич, Оценка: 79, Лев: 0.914, Джаро: 0.835, Фонетика: 1.000, Косинус: 0.700
+MATCHER: 2025/03/20 13:42:19 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [birth_date:true]
+MATCHER: 2025/03/20 13:42:19 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [country:true]
+MATCHER: 2025/03/20 13:42:19 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [birth_date:true, country:true]
+MATCHER: 2025/03/20 13:42:19 logger.go:58: [POSSIBLE_MATCH] Іваненко Сергій <-> Ivanenko Serhii, Оценка: 70, Лев: 1.000, Джаро: 1.000, Фонетика: 0.000, Косинус: 1.000
+MATCHER: 2025/03/20 13:42:19 logger.go:58: [POSSIBLE_MATCH] Олексей Шевченко <-> Oleksii Shevchenko, Оценка: 81, Лев: 1.000, Джаро: 0.978, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:42:19 logger.go:58: [POSSIBLE_MATCH] Иванов Иван Иванович Иваныч <-> Иванов, Оценка: 84, Лев: 1.000, Джаро: 0.847, Фонетика: 1.000, Косинус: 0.873
+MATCHER: 2025/03/20 13:42:19 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Ptrov Aleksander, Оценка: 80, Лев: 1.000, Джаро: 0.975, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:43:33 logger.go:24: Инициализация логгера успешно завершена
+MATCHER: 2025/03/20 13:43:33 logger.go:58: [POSSIBLE_MATCH] Алексей Смирнов <-> Alexey Smirnov, Оценка: 80, Лев: 1.000, Джаро: 0.959, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:43:33 logger.go:58: [POSSIBLE_MATCH] Алексей Смирнов <-> Aleksei Smirnov, Оценка: 81, Лев: 1.000, Джаро: 0.973, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:43:33 logger.go:58: [POSSIBLE_MATCH] Евгений Белов <-> Eugene Belov, Оценка: 70, Лев: 1.000, Джаро: 1.000, Фонетика: 0.000, Косинус: 1.000
+MATCHER: 2025/03/20 13:43:33 logger.go:58: [POSSIBLE_MATCH] Johnson Michael <-> Johson Michael, Оценка: 76, Лев: 1.000, Джаро: 0.968, Фонетика: 0.500, Косинус: 0.801
+MATCHER: 2025/03/20 13:43:33 logger.go:58: [POSSIBLE_MATCH] Петров И. С. <-> Петров Иван Сергеевич, Оценка: 79, Лев: 0.914, Джаро: 0.835, Фонетика: 1.000, Косинус: 0.700
+MATCHER: 2025/03/20 13:43:33 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [birth_date:true]
+MATCHER: 2025/03/20 13:43:33 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [country:true]
+MATCHER: 2025/03/20 13:43:33 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [birth_date:true, country:true]
+MATCHER: 2025/03/20 13:43:33 logger.go:58: [POSSIBLE_MATCH] Іваненко Сергій <-> Ivanenko Serhii, Оценка: 70, Лев: 1.000, Джаро: 1.000, Фонетика: 0.000, Косинус: 1.000
+MATCHER: 2025/03/20 13:43:33 logger.go:58: [POSSIBLE_MATCH] Олексей Шевченко <-> Oleksii Shevchenko, Оценка: 81, Лев: 1.000, Джаро: 0.978, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:43:33 logger.go:58: [POSSIBLE_MATCH] Иванов Иван Иванович Иваныч <-> Иванов, Оценка: 84, Лев: 1.000, Джаро: 0.847, Фонетика: 1.000, Косинус: 0.873
+MATCHER: 2025/03/20 13:43:33 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Ptrov Aleksander, Оценка: 80, Лев: 1.000, Джаро: 0.975, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:43:48 logger.go:24: Инициализация логгера успешно завершена
+MATCHER: 2025/03/20 13:43:48 logger.go:58: [POSSIBLE_MATCH] Алексей Смирнов <-> Alexey Smirnov, Оценка: 80, Лев: 1.000, Джаро: 0.959, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:43:48 logger.go:58: [POSSIBLE_MATCH] Алексей Смирнов <-> Aleksei Smirnov, Оценка: 81, Лев: 1.000, Джаро: 0.973, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:43:48 logger.go:58: [POSSIBLE_MATCH] Евгений Белов <-> Eugene Belov, Оценка: 70, Лев: 1.000, Джаро: 1.000, Фонетика: 0.000, Косинус: 1.000
+MATCHER: 2025/03/20 13:43:48 logger.go:58: [POSSIBLE_MATCH] Johnson Michael <-> Johson Michael, Оценка: 76, Лев: 1.000, Джаро: 0.968, Фонетика: 0.500, Косинус: 0.801
+MATCHER: 2025/03/20 13:43:48 logger.go:58: [POSSIBLE_MATCH] Петров И. С. <-> Петров Иван Сергеевич, Оценка: 79, Лев: 0.914, Джаро: 0.835, Фонетика: 1.000, Косинус: 0.700
+MATCHER: 2025/03/20 13:43:48 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [birth_date:true]
+MATCHER: 2025/03/20 13:43:48 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [country:true]
+MATCHER: 2025/03/20 13:43:48 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [birth_date:true, country:true]
+MATCHER: 2025/03/20 13:43:48 logger.go:58: [POSSIBLE_MATCH] Іваненко Сергій <-> Ivanenko Serhii, Оценка: 70, Лев: 1.000, Джаро: 1.000, Фонетика: 0.000, Косинус: 1.000
+MATCHER: 2025/03/20 13:43:48 logger.go:58: [POSSIBLE_MATCH] Олексей Шевченко <-> Oleksii Shevchenko, Оценка: 81, Лев: 1.000, Джаро: 0.978, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:43:48 logger.go:58: [POSSIBLE_MATCH] Иванов Иван Иванович Иваныч <-> Иванов, Оценка: 84, Лев: 1.000, Джаро: 0.847, Фонетика: 1.000, Косинус: 0.873
+MATCHER: 2025/03/20 13:43:48 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Ptrov Aleksander, Оценка: 80, Лев: 1.000, Джаро: 0.975, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:44:21 logger.go:24: Инициализация логгера успешно завершена
+MATCHER: 2025/03/20 13:44:21 logger.go:58: [POSSIBLE_MATCH] Алексей Смирнов <-> Alexey Smirnov, Оценка: 80, Лев: 1.000, Джаро: 0.959, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:44:21 logger.go:58: [POSSIBLE_MATCH] Алексей Смирнов <-> Aleksei Smirnov, Оценка: 81, Лев: 1.000, Джаро: 0.973, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:44:21 logger.go:58: [POSSIBLE_MATCH] Евгений Белов <-> Eugene Belov, Оценка: 70, Лев: 1.000, Джаро: 1.000, Фонетика: 0.000, Косинус: 1.000
+MATCHER: 2025/03/20 13:44:21 logger.go:58: [POSSIBLE_MATCH] Johnson Michael <-> Johson Michael, Оценка: 76, Лев: 1.000, Джаро: 0.968, Фонетика: 0.500, Косинус: 0.801
+MATCHER: 2025/03/20 13:44:21 logger.go:58: [POSSIBLE_MATCH] Петров И. С. <-> Петров Иван Сергеевич, Оценка: 79, Лев: 0.914, Джаро: 0.835, Фонетика: 1.000, Косинус: 0.700
+MATCHER: 2025/03/20 13:44:21 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [birth_date:true]
+MATCHER: 2025/03/20 13:44:21 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [country:true]
+MATCHER: 2025/03/20 13:44:21 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [birth_date:true, country:true]
+MATCHER: 2025/03/20 13:44:21 logger.go:58: [POSSIBLE_MATCH] Іваненко Сергій <-> Ivanenko Serhii, Оценка: 70, Лев: 1.000, Джаро: 1.000, Фонетика: 0.000, Косинус: 1.000
+MATCHER: 2025/03/20 13:44:21 logger.go:58: [POSSIBLE_MATCH] Олексей Шевченко <-> Oleksii Shevchenko, Оценка: 81, Лев: 1.000, Джаро: 0.978, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:44:21 logger.go:58: [POSSIBLE_MATCH] Иванов Иван Иванович Иваныч <-> Иванов, Оценка: 84, Лев: 1.000, Джаро: 0.847, Фонетика: 1.000, Косинус: 0.873
+MATCHER: 2025/03/20 13:44:21 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Ptrov Aleksander, Оценка: 80, Лев: 1.000, Джаро: 0.975, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:44:46 logger.go:24: Инициализация логгера успешно завершена
+MATCHER: 2025/03/20 13:44:46 logger.go:58: [POSSIBLE_MATCH] Алексей Смирнов <-> Alexey Smirnov, Оценка: 80, Лев: 1.000, Джаро: 0.959, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:44:46 logger.go:58: [POSSIBLE_MATCH] Алексей Смирнов <-> Aleksei Smirnov, Оценка: 81, Лев: 1.000, Джаро: 0.973, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:44:46 logger.go:58: [POSSIBLE_MATCH] Евгений Белов <-> Eugene Belov, Оценка: 70, Лев: 1.000, Джаро: 1.000, Фонетика: 0.000, Косинус: 1.000
+MATCHER: 2025/03/20 13:44:46 logger.go:58: [POSSIBLE_MATCH] Johnson Michael <-> Johson Michael, Оценка: 76, Лев: 1.000, Джаро: 0.968, Фонетика: 0.500, Косинус: 0.801
+MATCHER: 2025/03/20 13:44:46 logger.go:58: [POSSIBLE_MATCH] Петров И. С. <-> Петров Иван Сергеевич, Оценка: 79, Лев: 0.914, Джаро: 0.835, Фонетика: 1.000, Косинус: 0.700
+MATCHER: 2025/03/20 13:44:46 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [birth_date:true]
+MATCHER: 2025/03/20 13:44:46 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [country:true]
+MATCHER: 2025/03/20 13:44:46 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [birth_date:true, country:true]
+MATCHER: 2025/03/20 13:44:46 logger.go:58: [POSSIBLE_MATCH] Іваненко Сергій <-> Ivanenko Serhii, Оценка: 70, Лев: 1.000, Джаро: 1.000, Фонетика: 0.000, Косинус: 1.000
+MATCHER: 2025/03/20 13:44:46 logger.go:58: [POSSIBLE_MATCH] Олексей Шевченко <-> Oleksii Shevchenko, Оценка: 81, Лев: 1.000, Джаро: 0.978, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:44:46 logger.go:58: [POSSIBLE_MATCH] Иванов Иван Иванович Иваныч <-> Иванов, Оценка: 84, Лев: 1.000, Джаро: 0.847, Фонетика: 1.000, Косинус: 0.873
+MATCHER: 2025/03/20 13:44:46 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Ptrov Aleksander, Оценка: 80, Лев: 1.000, Джаро: 0.975, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:45:06 logger.go:24: Инициализация логгера успешно завершена
+MATCHER: 2025/03/20 13:45:06 logger.go:58: [POSSIBLE_MATCH] Алексей Смирнов <-> Alexey Smirnov, Оценка: 80, Лев: 1.000, Джаро: 0.959, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:45:06 logger.go:58: [POSSIBLE_MATCH] Алексей Смирнов <-> Aleksei Smirnov, Оценка: 81, Лев: 1.000, Джаро: 0.973, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:45:06 logger.go:58: [POSSIBLE_MATCH] Евгений Белов <-> Eugene Belov, Оценка: 70, Лев: 1.000, Джаро: 1.000, Фонетика: 0.000, Косинус: 1.000
+MATCHER: 2025/03/20 13:45:06 logger.go:58: [POSSIBLE_MATCH] Johnson Michael <-> Johson Michael, Оценка: 76, Лев: 1.000, Джаро: 0.968, Фонетика: 0.500, Косинус: 0.801
+MATCHER: 2025/03/20 13:45:06 logger.go:58: [POSSIBLE_MATCH] Петров И. С. <-> Петров Иван Сергеевич, Оценка: 79, Лев: 0.914, Джаро: 0.835, Фонетика: 1.000, Косинус: 0.700
+MATCHER: 2025/03/20 13:45:06 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [birth_date:true]
+MATCHER: 2025/03/20 13:45:06 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [country:true]
+MATCHER: 2025/03/20 13:45:06 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [birth_date:true, country:true]
+MATCHER: 2025/03/20 13:45:06 logger.go:58: [POSSIBLE_MATCH] Іваненко Сергій <-> Ivanenko Serhii, Оценка: 70, Лев: 1.000, Джаро: 1.000, Фонетика: 0.000, Косинус: 1.000
+MATCHER: 2025/03/20 13:45:06 logger.go:58: [POSSIBLE_MATCH] Олексей Шевченко <-> Oleksii Shevchenko, Оценка: 81, Лев: 1.000, Джаро: 0.978, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:45:06 logger.go:58: [POSSIBLE_MATCH] Иванов Иван Иванович Иваныч <-> Иванов, Оценка: 84, Лев: 1.000, Джаро: 0.847, Фонетика: 1.000, Косинус: 0.873
+MATCHER: 2025/03/20 13:45:06 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Ptrov Aleksander, Оценка: 80, Лев: 1.000, Джаро: 0.975, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:45:31 logger.go:24: Инициализация логгера успешно завершена
+MATCHER: 2025/03/20 13:45:31 logger.go:58: [POSSIBLE_MATCH] Алексей Смирнов <-> Alexey Smirnov, Оценка: 80, Лев: 1.000, Джаро: 0.959, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:45:31 logger.go:58: [POSSIBLE_MATCH] Алексей Смирнов <-> Aleksei Smirnov, Оценка: 81, Лев: 1.000, Джаро: 0.973, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:45:31 logger.go:58: [POSSIBLE_MATCH] Евгений Белов <-> Eugene Belov, Оценка: 70, Лев: 1.000, Джаро: 1.000, Фонетика: 0.000, Косинус: 1.000
+MATCHER: 2025/03/20 13:45:31 logger.go:58: [POSSIBLE_MATCH] Johnson Michael <-> Johson Michael, Оценка: 76, Лев: 1.000, Джаро: 0.968, Фонетика: 0.500, Косинус: 0.801
+MATCHER: 2025/03/20 13:45:31 logger.go:58: [POSSIBLE_MATCH] Петров И. С. <-> Петров Иван Сергеевич, Оценка: 79, Лев: 0.914, Джаро: 0.835, Фонетика: 1.000, Косинус: 0.700
+MATCHER: 2025/03/20 13:45:31 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [birth_date:true]
+MATCHER: 2025/03/20 13:45:31 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [country:true]
+MATCHER: 2025/03/20 13:45:31 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [birth_date:true, country:true]
+MATCHER: 2025/03/20 13:45:31 logger.go:58: [POSSIBLE_MATCH] Іваненко Сергій <-> Ivanenko Serhii, Оценка: 70, Лев: 1.000, Джаро: 1.000, Фонетика: 0.000, Косинус: 1.000
+MATCHER: 2025/03/20 13:45:31 logger.go:58: [POSSIBLE_MATCH] Олексей Шевченко <-> Oleksii Shevchenko, Оценка: 81, Лев: 1.000, Джаро: 0.978, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:45:31 logger.go:58: [POSSIBLE_MATCH] Иванов Иван Иванович Иваныч <-> Иванов, Оценка: 84, Лев: 1.000, Джаро: 0.847, Фонетика: 1.000, Косинус: 0.873
+MATCHER: 2025/03/20 13:45:31 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Ptrov Aleksander, Оценка: 80, Лев: 1.000, Джаро: 0.975, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:47:09 logger.go:24: Инициализация логгера успешно завершена
+MATCHER: 2025/03/20 13:47:09 logger.go:58: [POSSIBLE_MATCH] Алексей Смирнов <-> Alexey Smirnov, Оценка: 80, Лев: 1.000, Джаро: 0.959, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:47:09 logger.go:58: [POSSIBLE_MATCH] Алексей Смирнов <-> Aleksei Smirnov, Оценка: 81, Лев: 1.000, Джаро: 0.973, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:47:09 logger.go:58: [POSSIBLE_MATCH] Евгений Белов <-> Eugene Belov, Оценка: 70, Лев: 1.000, Джаро: 1.000, Фонетика: 0.000, Косинус: 1.000
+MATCHER: 2025/03/20 13:47:09 logger.go:58: [POSSIBLE_MATCH] Johnson Michael <-> Johson Michael, Оценка: 76, Лев: 1.000, Джаро: 0.968, Фонетика: 0.500, Косинус: 0.801
+MATCHER: 2025/03/20 13:47:09 logger.go:58: [POSSIBLE_MATCH] Петров И. С. <-> Петров Иван Сергеевич, Оценка: 79, Лев: 0.914, Джаро: 0.835, Фонетика: 1.000, Косинус: 0.700
+MATCHER: 2025/03/20 13:47:09 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [birth_date:true]
+MATCHER: 2025/03/20 13:47:09 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [country:true]
+MATCHER: 2025/03/20 13:47:09 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [birth_date:true, country:true]
+MATCHER: 2025/03/20 13:47:09 logger.go:58: [POSSIBLE_MATCH] Іваненко Сергій <-> Ivanenko Serhii, Оценка: 70, Лев: 1.000, Джаро: 1.000, Фонетика: 0.000, Косинус: 1.000
+MATCHER: 2025/03/20 13:47:09 logger.go:58: [POSSIBLE_MATCH] Олексей Шевченко <-> Oleksii Shevchenko, Оценка: 81, Лев: 1.000, Джаро: 0.978, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:47:09 logger.go:58: [POSSIBLE_MATCH] Иванов Иван Иванович Иваныч <-> Иванов, Оценка: 84, Лев: 1.000, Джаро: 0.847, Фонетика: 1.000, Косинус: 0.873
+MATCHER: 2025/03/20 13:47:09 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Ptrov Aleksander, Оценка: 80, Лев: 1.000, Джаро: 0.975, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:47:33 logger.go:24: Инициализация логгера успешно завершена
+MATCHER: 2025/03/20 13:47:33 logger.go:58: [POSSIBLE_MATCH] Алексей Смирнов <-> Alexey Smirnov, Оценка: 80, Лев: 1.000, Джаро: 0.959, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:47:33 logger.go:58: [POSSIBLE_MATCH] Алексей Смирнов <-> Aleksei Smirnov, Оценка: 81, Лев: 1.000, Джаро: 0.973, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:47:33 logger.go:58: [POSSIBLE_MATCH] Евгений Белов <-> Eugene Belov, Оценка: 70, Лев: 1.000, Джаро: 1.000, Фонетика: 0.000, Косинус: 1.000
+MATCHER: 2025/03/20 13:47:33 logger.go:58: [POSSIBLE_MATCH] Johnson Michael <-> Johson Michael, Оценка: 76, Лев: 1.000, Джаро: 0.968, Фонетика: 0.500, Косинус: 0.801
+MATCHER: 2025/03/20 13:47:33 logger.go:58: [POSSIBLE_MATCH] Петров И. С. <-> Петров Иван Сергеевич, Оценка: 79, Лев: 0.914, Джаро: 0.835, Фонетика: 1.000, Косинус: 0.700
+MATCHER: 2025/03/20 13:47:33 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [birth_date:true]
+MATCHER: 2025/03/20 13:47:33 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [country:true]
+MATCHER: 2025/03/20 13:47:33 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [birth_date:true, country:true]
+MATCHER: 2025/03/20 13:47:33 logger.go:58: [POSSIBLE_MATCH] Іваненко Сергій <-> Ivanenko Serhii, Оценка: 70, Лев: 1.000, Джаро: 1.000, Фонетика: 0.000, Косинус: 1.000
+MATCHER: 2025/03/20 13:47:33 logger.go:58: [POSSIBLE_MATCH] Олексей Шевченко <-> Oleksii Shevchenko, Оценка: 81, Лев: 1.000, Джаро: 0.978, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:47:33 logger.go:58: [POSSIBLE_MATCH] Иванов Иван Иванович Иваныч <-> Иванов, Оценка: 84, Лев: 1.000, Джаро: 0.847, Фонетика: 1.000, Косинус: 0.873
+MATCHER: 2025/03/20 13:47:33 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Ptrov Aleksander, Оценка: 80, Лев: 1.000, Джаро: 0.975, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:50:12 logger.go:24: Инициализация логгера успешно завершена
+MATCHER: 2025/03/20 13:50:12 logger.go:58: [POSSIBLE_MATCH] Алексей Смирнов <-> Alexey Smirnov, Оценка: 80, Лев: 1.000, Джаро: 0.959, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:50:12 logger.go:58: [POSSIBLE_MATCH] Алексей Смирнов <-> Aleksei Smirnov, Оценка: 81, Лев: 1.000, Джаро: 0.973, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:50:12 logger.go:58: [POSSIBLE_MATCH] Евгений Белов <-> Eugene Belov, Оценка: 70, Лев: 1.000, Джаро: 1.000, Фонетика: 0.000, Косинус: 1.000
+MATCHER: 2025/03/20 13:50:12 logger.go:58: [POSSIBLE_MATCH] Johnson Michael <-> Johson Michael, Оценка: 76, Лев: 1.000, Джаро: 0.968, Фонетика: 0.500, Косинус: 0.801
+MATCHER: 2025/03/20 13:50:12 logger.go:58: [POSSIBLE_MATCH] Петров И. С. <-> Петров Иван Сергеевич, Оценка: 79, Лев: 0.914, Джаро: 0.835, Фонетика: 1.000, Косинус: 0.700
+MATCHER: 2025/03/20 13:50:12 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [birth_date:true]
+MATCHER: 2025/03/20 13:50:12 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [country:true]
+MATCHER: 2025/03/20 13:50:12 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [birth_date:true, country:true]
+MATCHER: 2025/03/20 13:50:12 logger.go:58: [POSSIBLE_MATCH] Іваненко Сергій <-> Ivanenko Serhii, Оценка: 70, Лев: 1.000, Джаро: 1.000, Фонетика: 0.000, Косинус: 1.000
+MATCHER: 2025/03/20 13:50:12 logger.go:58: [POSSIBLE_MATCH] Олексей Шевченко <-> Oleksii Shevchenko, Оценка: 81, Лев: 1.000, Джаро: 0.978, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:50:12 logger.go:58: [POSSIBLE_MATCH] Иванов Иван Иванович Иваныч <-> Иванов, Оценка: 84, Лев: 1.000, Джаро: 0.847, Фонетика: 1.000, Косинус: 0.873
+MATCHER: 2025/03/20 13:50:12 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Ptrov Aleksander, Оценка: 80, Лев: 1.000, Джаро: 0.975, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:50:14 logger.go:24: Инициализация логгера успешно завершена
+MATCHER: 2025/03/20 13:50:14 logger.go:58: [POSSIBLE_MATCH] Алексей Смирнов <-> Alexey Smirnov, Оценка: 80, Лев: 1.000, Джаро: 0.959, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:50:14 logger.go:58: [POSSIBLE_MATCH] Алексей Смирнов <-> Aleksei Smirnov, Оценка: 81, Лев: 1.000, Джаро: 0.973, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:50:14 logger.go:58: [POSSIBLE_MATCH] Евгений Белов <-> Eugene Belov, Оценка: 70, Лев: 1.000, Джаро: 1.000, Фонетика: 0.000, Косинус: 1.000
+MATCHER: 2025/03/20 13:50:14 logger.go:58: [POSSIBLE_MATCH] Johnson Michael <-> Johson Michael, Оценка: 76, Лев: 1.000, Джаро: 0.968, Фонетика: 0.500, Косинус: 0.801
+MATCHER: 2025/03/20 13:50:14 logger.go:58: [POSSIBLE_MATCH] Петров И. С. <-> Петров Иван Сергеевич, Оценка: 79, Лев: 0.914, Джаро: 0.835, Фонетика: 1.000, Косинус: 0.700
+MATCHER: 2025/03/20 13:50:14 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [birth_date:true]
+MATCHER: 2025/03/20 13:50:14 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [country:true]
+MATCHER: 2025/03/20 13:50:14 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [birth_date:true, country:true]
+MATCHER: 2025/03/20 13:50:14 logger.go:58: [POSSIBLE_MATCH] Іваненко Сергій <-> Ivanenko Serhii, Оценка: 70, Лев: 1.000, Джаро: 1.000, Фонетика: 0.000, Косинус: 1.000
+MATCHER: 2025/03/20 13:50:14 logger.go:58: [POSSIBLE_MATCH] Олексей Шевченко <-> Oleksii Shevchenko, Оценка: 81, Лев: 1.000, Джаро: 0.978, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:50:14 logger.go:58: [POSSIBLE_MATCH] Иванов Иван Иванович Иваныч <-> Иванов, Оценка: 84, Лев: 1.000, Джаро: 0.847, Фонетика: 1.000, Косинус: 0.873
+MATCHER: 2025/03/20 13:50:14 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Ptrov Aleksander, Оценка: 80, Лев: 1.000, Джаро: 0.975, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:51:56 logger.go:24: Инициализация логгера успешно завершена
+MATCHER: 2025/03/20 13:51:56 logger.go:58: [POSSIBLE_MATCH] Алексей Смирнов <-> Alexey Smirnov, Оценка: 80, Лев: 1.000, Джаро: 0.959, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:51:56 logger.go:58: [POSSIBLE_MATCH] Алексей Смирнов <-> Aleksei Smirnov, Оценка: 81, Лев: 1.000, Джаро: 0.973, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:51:56 logger.go:58: [POSSIBLE_MATCH] Евгений Белов <-> Eugene Belov, Оценка: 70, Лев: 1.000, Джаро: 1.000, Фонетика: 0.000, Косинус: 1.000
+MATCHER: 2025/03/20 13:51:56 logger.go:58: [POSSIBLE_MATCH] Johnson Michael <-> Johson Michael, Оценка: 76, Лев: 1.000, Джаро: 0.968, Фонетика: 0.500, Косинус: 0.801
+MATCHER: 2025/03/20 13:51:56 logger.go:58: [POSSIBLE_MATCH] Петров И. С. <-> Петров Иван Сергеевич, Оценка: 79, Лев: 0.914, Джаро: 0.835, Фонетика: 1.000, Косинус: 0.700
+MATCHER: 2025/03/20 13:51:56 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [birth_date:true]
+MATCHER: 2025/03/20 13:51:56 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [country:true]
+MATCHER: 2025/03/20 13:51:56 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [country:true, birth_date:true]
+MATCHER: 2025/03/20 13:51:56 logger.go:58: [POSSIBLE_MATCH] Іваненко Сергій <-> Ivanenko Serhii, Оценка: 70, Лев: 1.000, Джаро: 1.000, Фонетика: 0.000, Косинус: 1.000
+MATCHER: 2025/03/20 13:51:56 logger.go:58: [POSSIBLE_MATCH] Олексей Шевченко <-> Oleksii Shevchenko, Оценка: 81, Лев: 1.000, Джаро: 0.978, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:51:56 logger.go:58: [POSSIBLE_MATCH] Иванов Иван Иванович Иваныч <-> Иванов, Оценка: 84, Лев: 1.000, Джаро: 0.847, Фонетика: 1.000, Косинус: 0.873
+MATCHER: 2025/03/20 13:51:56 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Ptrov Aleksander, Оценка: 80, Лев: 1.000, Джаро: 0.975, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:51:59 logger.go:24: Инициализация логгера успешно завершена
+MATCHER: 2025/03/20 13:51:59 logger.go:58: [POSSIBLE_MATCH] Алексей Смирнов <-> Alexey Smirnov, Оценка: 80, Лев: 1.000, Джаро: 0.959, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:51:59 logger.go:58: [POSSIBLE_MATCH] Алексей Смирнов <-> Aleksei Smirnov, Оценка: 81, Лев: 1.000, Джаро: 0.973, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:51:59 logger.go:58: [POSSIBLE_MATCH] Евгений Белов <-> Eugene Belov, Оценка: 70, Лев: 1.000, Джаро: 1.000, Фонетика: 0.000, Косинус: 1.000
+MATCHER: 2025/03/20 13:51:59 logger.go:58: [POSSIBLE_MATCH] Johnson Michael <-> Johson Michael, Оценка: 76, Лев: 1.000, Джаро: 0.968, Фонетика: 0.500, Косинус: 0.801
+MATCHER: 2025/03/20 13:51:59 logger.go:58: [POSSIBLE_MATCH] Петров И. С. <-> Петров Иван Сергеевич, Оценка: 79, Лев: 0.914, Джаро: 0.835, Фонетика: 1.000, Косинус: 0.700
+MATCHER: 2025/03/20 13:51:59 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [birth_date:true]
+MATCHER: 2025/03/20 13:51:59 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [country:true]
+MATCHER: 2025/03/20 13:51:59 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [birth_date:true, country:true]
+MATCHER: 2025/03/20 13:51:59 logger.go:58: [POSSIBLE_MATCH] Іваненко Сергій <-> Ivanenko Serhii, Оценка: 70, Лев: 1.000, Джаро: 1.000, Фонетика: 0.000, Косинус: 1.000
+MATCHER: 2025/03/20 13:51:59 logger.go:58: [POSSIBLE_MATCH] Олексей Шевченко <-> Oleksii Shevchenko, Оценка: 81, Лев: 1.000, Джаро: 0.978, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:51:59 logger.go:58: [POSSIBLE_MATCH] Иванов Иван Иванович Иваныч <-> Иванов, Оценка: 84, Лев: 1.000, Джаро: 0.847, Фонетика: 1.000, Косинус: 0.873
+MATCHER: 2025/03/20 13:51:59 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Ptrov Aleksander, Оценка: 80, Лев: 1.000, Джаро: 0.975, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:52:20 logger.go:24: Инициализация логгера успешно завершена
+MATCHER: 2025/03/20 13:52:20 logger.go:58: [POSSIBLE_MATCH] Алексей Смирнов <-> Alexey Smirnov, Оценка: 80, Лев: 1.000, Джаро: 0.959, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:52:20 logger.go:58: [POSSIBLE_MATCH] Алексей Смирнов <-> Aleksei Smirnov, Оценка: 81, Лев: 1.000, Джаро: 0.973, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:52:20 logger.go:58: [POSSIBLE_MATCH] Евгений Белов <-> Eugene Belov, Оценка: 70, Лев: 1.000, Джаро: 1.000, Фонетика: 0.000, Косинус: 1.000
+MATCHER: 2025/03/20 13:52:20 logger.go:58: [POSSIBLE_MATCH] Johnson Michael <-> Johson Michael, Оценка: 76, Лев: 1.000, Джаро: 0.968, Фонетика: 0.500, Косинус: 0.801
+MATCHER: 2025/03/20 13:52:20 logger.go:58: [POSSIBLE_MATCH] Петров И. С. <-> Петров Иван Сергеевич, Оценка: 79, Лев: 0.914, Джаро: 0.835, Фонетика: 1.000, Косинус: 0.700
+MATCHER: 2025/03/20 13:52:20 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [birth_date:true]
+MATCHER: 2025/03/20 13:52:20 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [country:true]
+MATCHER: 2025/03/20 13:52:20 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [birth_date:true, country:true]
+MATCHER: 2025/03/20 13:52:20 logger.go:58: [POSSIBLE_MATCH] Іваненко Сергій <-> Ivanenko Serhii, Оценка: 70, Лев: 1.000, Джаро: 1.000, Фонетика: 0.000, Косинус: 1.000
+MATCHER: 2025/03/20 13:52:20 logger.go:58: [POSSIBLE_MATCH] Олексей Шевченко <-> Oleksii Shevchenko, Оценка: 81, Лев: 1.000, Джаро: 0.978, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:52:20 logger.go:58: [POSSIBLE_MATCH] Иванов Иван Иванович Иваныч <-> Иванов, Оценка: 84, Лев: 1.000, Джаро: 0.847, Фонетика: 1.000, Косинус: 0.873
+MATCHER: 2025/03/20 13:52:20 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Ptrov Aleksander, Оценка: 80, Лев: 1.000, Джаро: 0.975, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:54:28 logger.go:24: Инициализация логгера успешно завершена
+MATCHER: 2025/03/20 13:54:28 logger.go:58: [POSSIBLE_MATCH] Алексей Смирнов <-> Alexey Smirnov, Оценка: 80, Лев: 1.000, Джаро: 0.959, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:54:28 logger.go:58: [POSSIBLE_MATCH] Алексей Смирнов <-> Aleksei Smirnov, Оценка: 81, Лев: 1.000, Джаро: 0.973, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:54:28 logger.go:58: [POSSIBLE_MATCH] Евгений Белов <-> Eugene Belov, Оценка: 70, Лев: 1.000, Джаро: 1.000, Фонетика: 0.000, Косинус: 1.000
+MATCHER: 2025/03/20 13:54:28 logger.go:58: [POSSIBLE_MATCH] Johnson Michael <-> Johson Michael, Оценка: 76, Лев: 1.000, Джаро: 0.968, Фонетика: 0.500, Косинус: 0.801
+MATCHER: 2025/03/20 13:54:28 logger.go:58: [POSSIBLE_MATCH] Петров И. С. <-> Петров Иван Сергеевич, Оценка: 79, Лев: 0.914, Джаро: 0.835, Фонетика: 1.000, Косинус: 0.700
+MATCHER: 2025/03/20 13:54:28 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [birth_date:true]
+MATCHER: 2025/03/20 13:54:28 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [country:true]
+MATCHER: 2025/03/20 13:54:28 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [birth_date:true, country:true]
+MATCHER: 2025/03/20 13:54:28 logger.go:58: [POSSIBLE_MATCH] Іваненко Сергій <-> Ivanenko Serhii, Оценка: 70, Лев: 1.000, Джаро: 1.000, Фонетика: 0.000, Косинус: 1.000
+MATCHER: 2025/03/20 13:54:28 logger.go:58: [POSSIBLE_MATCH] Олексей Шевченко <-> Oleksii Shevchenko, Оценка: 81, Лев: 1.000, Джаро: 0.978, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:54:28 logger.go:58: [POSSIBLE_MATCH] Иванов Иван Иванович Иваныч <-> Иванов, Оценка: 84, Лев: 1.000, Джаро: 0.847, Фонетика: 1.000, Косинус: 0.873
+MATCHER: 2025/03/20 13:54:28 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Ptrov Aleksander, Оценка: 80, Лев: 1.000, Джаро: 0.975, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:54:31 logger.go:24: Инициализация логгера успешно завершена
+MATCHER: 2025/03/20 13:54:31 logger.go:58: [POSSIBLE_MATCH] Алексей Смирнов <-> Alexey Smirnov, Оценка: 80, Лев: 1.000, Джаро: 0.959, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:54:31 logger.go:58: [POSSIBLE_MATCH] Алексей Смирнов <-> Aleksei Smirnov, Оценка: 81, Лев: 1.000, Джаро: 0.973, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:54:31 logger.go:58: [POSSIBLE_MATCH] Евгений Белов <-> Eugene Belov, Оценка: 70, Лев: 1.000, Джаро: 1.000, Фонетика: 0.000, Косинус: 1.000
+MATCHER: 2025/03/20 13:54:31 logger.go:58: [POSSIBLE_MATCH] Johnson Michael <-> Johson Michael, Оценка: 76, Лев: 1.000, Джаро: 0.968, Фонетика: 0.500, Косинус: 0.801
+MATCHER: 2025/03/20 13:54:31 logger.go:58: [POSSIBLE_MATCH] Петров И. С. <-> Петров Иван Сергеевич, Оценка: 79, Лев: 0.914, Джаро: 0.835, Фонетика: 1.000, Косинус: 0.700
+MATCHER: 2025/03/20 13:54:31 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [birth_date:true]
+MATCHER: 2025/03/20 13:54:31 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [country:true]
+MATCHER: 2025/03/20 13:54:31 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [birth_date:true, country:true]
+MATCHER: 2025/03/20 13:54:31 logger.go:58: [POSSIBLE_MATCH] Іваненко Сергій <-> Ivanenko Serhii, Оценка: 70, Лев: 1.000, Джаро: 1.000, Фонетика: 0.000, Косинус: 1.000
+MATCHER: 2025/03/20 13:54:31 logger.go:58: [POSSIBLE_MATCH] Олексей Шевченко <-> Oleksii Shevchenko, Оценка: 81, Лев: 1.000, Джаро: 0.978, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:54:31 logger.go:58: [POSSIBLE_MATCH] Иванов Иван Иванович Иваныч <-> Иванов, Оценка: 84, Лев: 1.000, Джаро: 0.847, Фонетика: 1.000, Косинус: 0.873
+MATCHER: 2025/03/20 13:54:31 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Ptrov Aleksander, Оценка: 80, Лев: 1.000, Джаро: 0.975, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:55:52 logger.go:24: Инициализация логгера успешно завершена
+MATCHER: 2025/03/20 13:55:52 logger.go:58: [POSSIBLE_MATCH] Алексей Смирнов <-> Alexey Smirnov, Оценка: 80, Лев: 1.000, Джаро: 0.959, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:55:52 logger.go:58: [POSSIBLE_MATCH] Алексей Смирнов <-> Aleksei Smirnov, Оценка: 81, Лев: 1.000, Джаро: 0.973, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:55:52 logger.go:58: [POSSIBLE_MATCH] Евгений Белов <-> Eugene Belov, Оценка: 70, Лев: 1.000, Джаро: 1.000, Фонетика: 0.000, Косинус: 1.000
+MATCHER: 2025/03/20 13:55:52 logger.go:58: [POSSIBLE_MATCH] Johnson Michael <-> Johson Michael, Оценка: 76, Лев: 1.000, Джаро: 0.968, Фонетика: 0.500, Косинус: 0.801
+MATCHER: 2025/03/20 13:55:52 logger.go:58: [POSSIBLE_MATCH] Петров И. С. <-> Петров Иван Сергеевич, Оценка: 79, Лев: 0.914, Джаро: 0.835, Фонетика: 1.000, Косинус: 0.700
+MATCHER: 2025/03/20 13:55:52 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [birth_date:true]
+MATCHER: 2025/03/20 13:55:52 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [country:true]
+MATCHER: 2025/03/20 13:55:52 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [birth_date:true, country:true]
+MATCHER: 2025/03/20 13:55:52 logger.go:58: [POSSIBLE_MATCH] Іваненко Сергій <-> Ivanenko Serhii, Оценка: 70, Лев: 1.000, Джаро: 1.000, Фонетика: 0.000, Косинус: 1.000
+MATCHER: 2025/03/20 13:55:52 logger.go:58: [POSSIBLE_MATCH] Олексей Шевченко <-> Oleksii Shevchenko, Оценка: 81, Лев: 1.000, Джаро: 0.978, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:55:52 logger.go:58: [POSSIBLE_MATCH] Иванов Иван Иванович Иваныч <-> Иванов, Оценка: 84, Лев: 1.000, Джаро: 0.847, Фонетика: 1.000, Косинус: 0.873
+MATCHER: 2025/03/20 13:55:52 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Ptrov Aleksander, Оценка: 80, Лев: 1.000, Джаро: 0.975, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:56:38 logger.go:24: Инициализация логгера успешно завершена
+MATCHER: 2025/03/20 13:56:38 logger.go:58: [POSSIBLE_MATCH] Алексей Смирнов <-> Alexey Smirnov, Оценка: 80, Лев: 1.000, Джаро: 0.959, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:56:38 logger.go:58: [POSSIBLE_MATCH] Алексей Смирнов <-> Aleksei Smirnov, Оценка: 81, Лев: 1.000, Джаро: 0.973, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:56:38 logger.go:58: [POSSIBLE_MATCH] Евгений Белов <-> Eugene Belov, Оценка: 70, Лев: 1.000, Джаро: 1.000, Фонетика: 0.000, Косинус: 1.000
+MATCHER: 2025/03/20 13:56:38 logger.go:58: [POSSIBLE_MATCH] Johnson Michael <-> Johson Michael, Оценка: 76, Лев: 1.000, Джаро: 0.968, Фонетика: 0.500, Косинус: 0.801
+MATCHER: 2025/03/20 13:56:38 logger.go:58: [POSSIBLE_MATCH] Иванов Петр Сергеевич <-> Петров Иван Сергеевич, Оценка: 88, Лев: 1.000, Джаро: 0.970, Фонетика: 1.000, Косинус: 0.889
+MATCHER: 2025/03/20 13:56:38 logger.go:58: [POSSIBLE_MATCH] Петров И. С. <-> Петров Иван Сергеевич, Оценка: 79, Лев: 0.914, Джаро: 0.835, Фонетика: 1.000, Косинус: 0.700
+MATCHER: 2025/03/20 13:56:38 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [birth_date:true]
+MATCHER: 2025/03/20 13:56:38 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [country:true]
+MATCHER: 2025/03/20 13:56:38 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [birth_date:true, country:true]
+MATCHER: 2025/03/20 13:56:38 logger.go:58: [POSSIBLE_MATCH] Іваненко Сергій <-> Ivanenko Serhii, Оценка: 70, Лев: 1.000, Джаро: 1.000, Фонетика: 0.000, Косинус: 1.000
+MATCHER: 2025/03/20 13:56:38 logger.go:58: [POSSIBLE_MATCH] Олексей Шевченко <-> Oleksii Shevchenko, Оценка: 81, Лев: 1.000, Джаро: 0.978, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:56:38 logger.go:58: [POSSIBLE_MATCH] Иванов Иван Иванович Иваныч <-> Иванов, Оценка: 84, Лев: 1.000, Джаро: 0.847, Фонетика: 1.000, Косинус: 0.873
+MATCHER: 2025/03/20 13:56:38 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Ptrov Aleksander, Оценка: 80, Лев: 1.000, Джаро: 0.975, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:57:43 logger.go:24: Инициализация логгера успешно завершена
+MATCHER: 2025/03/20 13:57:43 logger.go:58: [POSSIBLE_MATCH] Алексей Смирнов <-> Alexey Smirnov, Оценка: 80, Лев: 1.000, Джаро: 0.959, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:57:43 logger.go:58: [POSSIBLE_MATCH] Алексей Смирнов <-> Aleksei Smirnov, Оценка: 81, Лев: 1.000, Джаро: 0.973, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:57:43 logger.go:58: [POSSIBLE_MATCH] Евгений Белов <-> Eugene Belov, Оценка: 70, Лев: 1.000, Джаро: 1.000, Фонетика: 0.000, Косинус: 1.000
+MATCHER: 2025/03/20 13:57:43 logger.go:58: [POSSIBLE_MATCH] Johnson Michael <-> Johson Michael, Оценка: 76, Лев: 1.000, Джаро: 0.968, Фонетика: 0.500, Косинус: 0.801
+MATCHER: 2025/03/20 13:57:43 logger.go:58: [POSSIBLE_MATCH] Петров И. С. <-> Петров Иван Сергеевич, Оценка: 79, Лев: 0.914, Джаро: 0.835, Фонетика: 1.000, Косинус: 0.700
+MATCHER: 2025/03/20 13:57:43 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [birth_date:true]
+MATCHER: 2025/03/20 13:57:43 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [country:true]
+MATCHER: 2025/03/20 13:57:43 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [birth_date:true, country:true]
+MATCHER: 2025/03/20 13:57:43 logger.go:58: [POSSIBLE_MATCH] Іваненко Сергій <-> Ivanenko Serhii, Оценка: 70, Лев: 1.000, Джаро: 1.000, Фонетика: 0.000, Косинус: 1.000
+MATCHER: 2025/03/20 13:57:43 logger.go:58: [POSSIBLE_MATCH] Олексей Шевченко <-> Oleksii Shevchenko, Оценка: 81, Лев: 1.000, Джаро: 0.978, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:57:43 logger.go:58: [POSSIBLE_MATCH] Иванов Иван Иванович Иваныч <-> Иванов, Оценка: 84, Лев: 1.000, Джаро: 0.847, Фонетика: 1.000, Косинус: 0.873
+MATCHER: 2025/03/20 13:57:43 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Ptrov Aleksander, Оценка: 80, Лев: 1.000, Джаро: 0.975, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:58:27 logger.go:24: Инициализация логгера успешно завершена
+MATCHER: 2025/03/20 13:58:27 logger.go:58: [POSSIBLE_MATCH] Алексей Смирнов <-> Alexey Smirnov, Оценка: 80, Лев: 1.000, Джаро: 0.959, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:58:27 logger.go:58: [POSSIBLE_MATCH] Алексей Смирнов <-> Aleksei Smirnov, Оценка: 81, Лев: 1.000, Джаро: 0.973, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:58:27 logger.go:58: [POSSIBLE_MATCH] Евгений Белов <-> Eugene Belov, Оценка: 70, Лев: 1.000, Джаро: 1.000, Фонетика: 0.000, Косинус: 1.000
+MATCHER: 2025/03/20 13:58:27 logger.go:58: [POSSIBLE_MATCH] Johnson Michael <-> Johson Michael, Оценка: 76, Лев: 1.000, Джаро: 0.968, Фонетика: 0.500, Косинус: 0.801
+MATCHER: 2025/03/20 13:58:27 logger.go:58: [POSSIBLE_MATCH] Петров И. С. <-> Петров Иван Сергеевич, Оценка: 79, Лев: 0.914, Джаро: 0.835, Фонетика: 1.000, Косинус: 0.700
+MATCHER: 2025/03/20 13:58:27 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [birth_date:true]
+MATCHER: 2025/03/20 13:58:27 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [country:true]
+MATCHER: 2025/03/20 13:58:27 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [birth_date:true, country:true]
+MATCHER: 2025/03/20 13:58:27 logger.go:58: [POSSIBLE_MATCH] Іваненко Сергій <-> Ivanenko Serhii, Оценка: 70, Лев: 1.000, Джаро: 1.000, Фонетика: 0.000, Косинус: 1.000
+MATCHER: 2025/03/20 13:58:27 logger.go:58: [POSSIBLE_MATCH] Олексей Шевченко <-> Oleksii Shevchenko, Оценка: 81, Лев: 1.000, Джаро: 0.978, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 13:58:27 logger.go:58: [POSSIBLE_MATCH] Иванов Иван Иванович Иваныч <-> Иванов, Оценка: 84, Лев: 1.000, Джаро: 0.847, Фонетика: 1.000, Косинус: 0.873
+MATCHER: 2025/03/20 13:58:27 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Ptrov Aleksander, Оценка: 80, Лев: 1.000, Джаро: 0.975, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 14:11:22 logger.go:24: Инициализация логгера успешно завершена
+MATCHER: 2025/03/20 14:11:22 logger.go:58: [POSSIBLE_MATCH] Алексей Смирнов <-> Alexey Smirnov, Оценка: 80, Лев: 1.000, Джаро: 0.959, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 14:11:22 logger.go:58: [POSSIBLE_MATCH] Алексей Смирнов <-> Aleksei Smirnov, Оценка: 81, Лев: 1.000, Джаро: 0.973, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 14:11:22 logger.go:58: [POSSIBLE_MATCH] Евгений Белов <-> Eugene Belov, Оценка: 70, Лев: 1.000, Джаро: 1.000, Фонетика: 0.000, Косинус: 1.000
+MATCHER: 2025/03/20 14:11:22 logger.go:58: [POSSIBLE_MATCH] Johnson Michael <-> Johson Michael, Оценка: 76, Лев: 1.000, Джаро: 0.968, Фонетика: 0.500, Косинус: 0.801
+MATCHER: 2025/03/20 14:11:22 logger.go:58: [POSSIBLE_MATCH] Петров И. С. <-> Петров Иван Сергеевич, Оценка: 79, Лев: 0.914, Джаро: 0.835, Фонетика: 1.000, Косинус: 0.700
+MATCHER: 2025/03/20 14:11:22 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [birth_date:true]
+MATCHER: 2025/03/20 14:11:22 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [country:true]
+MATCHER: 2025/03/20 14:11:22 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [birth_date:true, country:true]
+MATCHER: 2025/03/20 14:11:22 logger.go:58: [POSSIBLE_MATCH] Іваненко Сергій <-> Ivanenko Serhii, Оценка: 70, Лев: 1.000, Джаро: 1.000, Фонетика: 0.000, Косинус: 1.000
+MATCHER: 2025/03/20 14:11:22 logger.go:58: [POSSIBLE_MATCH] Олексій Шевченко <-> Oleksii Shevchenko, Оценка: 81, Лев: 1.000, Джаро: 0.978, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 14:11:22 logger.go:58: [POSSIBLE_MATCH] Олексей Шевченко <-> Oleksii Shevchenko, Оценка: 80, Лев: 1.000, Джаро: 0.956, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 14:11:22 logger.go:58: [POSSIBLE_MATCH] Иванов Иван Иванович Иваныч <-> Иванов, Оценка: 84, Лев: 1.000, Джаро: 0.847, Фонетика: 1.000, Косинус: 0.873
+MATCHER: 2025/03/20 14:11:22 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Ptrov Aleksander, Оценка: 80, Лев: 1.000, Джаро: 0.975, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 14:12:50 logger.go:24: Инициализация логгера успешно завершена
+MATCHER: 2025/03/20 14:12:50 logger.go:58: [POSSIBLE_MATCH] Алексей Смирнов <-> Alexey Smirnov, Оценка: 80, Лев: 1.000, Джаро: 0.959, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 14:12:50 logger.go:58: [POSSIBLE_MATCH] Алексей Смирнов <-> Aleksei Smirnov, Оценка: 81, Лев: 1.000, Джаро: 0.973, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 14:12:50 logger.go:58: [POSSIBLE_MATCH] Евгений Белов <-> Eugene Belov, Оценка: 70, Лев: 1.000, Джаро: 1.000, Фонетика: 0.000, Косинус: 1.000
+MATCHER: 2025/03/20 14:12:50 logger.go:58: [POSSIBLE_MATCH] Johnson Michael <-> Johson Michael, Оценка: 76, Лев: 1.000, Джаро: 0.968, Фонетика: 0.500, Косинус: 0.801
+MATCHER: 2025/03/20 14:12:50 logger.go:58: [POSSIBLE_MATCH] Петров И. С. <-> Петров Иван Сергеевич, Оценка: 79, Лев: 0.914, Джаро: 0.835, Фонетика: 1.000, Косинус: 0.700
+MATCHER: 2025/03/20 14:12:50 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [birth_date:true]
+MATCHER: 2025/03/20 14:12:50 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [country:true]
+MATCHER: 2025/03/20 14:12:50 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Petrov Alexander, Оценка: 80, Лев: 1.000, Джаро: 0.950, Фонетика: 1.000, Косинус: 0.000, Атрибуты: [birth_date:true, country:true]
+MATCHER: 2025/03/20 14:12:50 logger.go:58: [POSSIBLE_MATCH] Іваненко Сергій <-> Ivanenko Serhii, Оценка: 70, Лев: 1.000, Джаро: 1.000, Фонетика: 0.000, Косинус: 1.000
+MATCHER: 2025/03/20 14:12:50 logger.go:58: [POSSIBLE_MATCH] Олексій Шевченко <-> Oleksii Shevchenko, Оценка: 81, Лев: 1.000, Джаро: 0.978, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 14:12:50 logger.go:58: [POSSIBLE_MATCH] Олексей Шевченко <-> Oleksii Shevchenko, Оценка: 80, Лев: 1.000, Джаро: 0.956, Фонетика: 1.000, Косинус: 0.000
+MATCHER: 2025/03/20 14:12:50 logger.go:58: [POSSIBLE_MATCH] Иванов Иван Иванович Иваныч <-> Иванов, Оценка: 84, Лев: 1.000, Джаро: 0.847, Фонетика: 1.000, Косинус: 0.873
+MATCHER: 2025/03/20 14:12:50 logger.go:58: [POSSIBLE_MATCH] Петров Александр <-> Ptrov Aleksander, Оценка: 80, Лев: 1.000, Джаро: 0.975, Фонетика: 1.000, Косинус: 0.000
+{
+  "timestamp": "2025-03-20T14:28:29+03:00",
+  "name1": "Олексій Шевченко",
+  "name2": "Алексей Шевченко",
+  "result": {
+    "exact_match": false,
+    "score": 86,
+    "match_type": "possible_match",
+    "best_match1": "олексій шевченко",
+    "best_match2": "алексей шевченко",
+    "levenshtein_score": 1,
+    "jaro_winkler_score": 0.856221198156682,
+    "phonetic_score": 1,
+    "cosine_score": 0.8447418837575273,
+    "processing_time_ms": 0
+  }
+}
+{
+  "timestamp": "2025-03-20T14:28:29+03:00",
+  "name1": "Петров И. С.",
+  "name2": "Петров Иван Сергеевич",
+  "result": {
+    "exact_match": false,
+    "score": 81,
+    "match_type": "possible_match",
+    "best_match1": "и петров",
+    "best_match2": "иван петров",
+    "levenshtein_score": 0.9142857142857144,
+    "jaro_winkler_score": 0.8349206349206348,
+    "phonetic_score": 1,
+    "cosine_score": 0.6999132392733555,
+    "processing_time_ms": 5
+  }
+}
+{
+  "timestamp": "2025-03-20T14:28:29+03:00",
+  "name1": "И. С. Петров",
+  "name2": "Иван Сергеевич Петров",
+  "result": {
+    "exact_match": false,
+    "score": 81,
+    "match_type": "possible_match",
+    "best_match1": "и петров",
+    "best_match2": "иван петров",
+    "levenshtein_score": 0.9142857142857144,
+    "jaro_winkler_score": 0.8349206349206348,
+    "phonetic_score": 1,
+    "cosine_score": 0.6999132392733555,
+    "processing_time_ms": 4
+  }
+}
+{
+  "timestamp": "2025-03-20T14:28:29+03:00",
+  "name1": "Петров Александр",
+  "name2": "Petrov Alexander",
+  "attributes": {
+    "birth_date": {
+      "match": true
+    }
+  },
+  "result": {
+    "exact_match": false,
+    "score": 87,
+    "match_type": "possible_match",
+    "best_match1": "петров александр",
+    "best_match2": "petrov alexander",
+    "levenshtein_score": 1,
+    "jaro_winkler_score": 0.95,
+    "phonetic_score": 1,
+    "processing_time_ms": 2
+  }
+}
+{
+  "timestamp": "2025-03-20T14:28:29+03:00",
+  "name1": "Петров Александр",
+  "name2": "Petrov Alexander",
+  "attributes": {
+    "country": {
+      "match": true
+    }
+  },
+  "result": {
+    "exact_match": false,
+    "score": 87,
+    "match_type": "possible_match",
+    "best_match1": "петров александр",
+    "best_match2": "petrov alexander",
+    "levenshtein_score": 1,
+    "jaro_winkler_score": 0.95,
+    "phonetic_score": 1,
+    "processing_time_ms": 3
+  }
+}
+{
+  "timestamp": "2025-03-20T14:28:29+03:00",
+  "name1": "Петров Александр",
+  "name2": "Petrov Alexander",
+  "attributes": {
+    "birth_date": {
+      "match": true
+    },
+    "country": {
+      "match": true
+    }
+  },
+  "result": {
+    "exact_match": false,
+    "score": 87,
+    "match_type": "possible_match",
+    "best_match1": "петров александр",
+    "best_match2": "petrov alexander",
+    "levenshtein_score": 1,
+    "jaro_winkler_score": 0.95,
+    "phonetic_score": 1,
+    "processing_time_ms": 2
+  }
+}
+{
+  "timestamp": "2025-03-20T14:28:29+03:00",
+  "name1": "Алексей Смирнов",
+  "name2": "Alexey Smirnov",
+  "result": {
+    "exact_match": false,
+    "score": 87,
+    "match_type": "possible_match",
+    "best_match1": "смирнов алексей",
+    "best_match2": "smirnov alexey",
+    "levenshtein_score": 1,
+    "jaro_winkler_score": 0.959047619047619,
+    "phonetic_score": 1,
+    "processing_time_ms": 1
+  }
+}
+{
+  "timestamp": "2025-03-20T14:28:29+03:00",
+  "name1": "Johnson Michael",
+  "name2": "Johson Michael",
+  "result": {
+    "exact_match": false,
+    "score": 76,
+    "match_type": "possible_match",
+    "best_match1": "johnson michael",
+    "best_match2": "johson michael",
+    "levenshtein_score": 1,
+    "jaro_winkler_score": 0.9677777777777778,
+    "phonetic_score": 0.5,
+    "cosine_score": 0.8006407690254358,
+    "processing_time_ms": 0
+  }
+}
+{
+  "timestamp": "2025-03-20T14:28:29+03:00",
+  "name1": "Петров И. С.",
+  "name2": "Петров Иван Сергеевич",
+  "result": {
+    "exact_match": false,
+    "score": 81,
+    "match_type": "possible_match",
+    "best_match1": "и петров",
+    "best_match2": "иван петров",
+    "levenshtein_score": 0.9142857142857144,
+    "jaro_winkler_score": 0.8349206349206348,
+    "phonetic_score": 1,
+    "cosine_score": 0.6999132392733555,
+    "processing_time_ms": 2
+  }
+}
+{
+  "timestamp": "2025-03-20T14:28:29+03:00",
+  "name1": "Петров Александр",
+  "name2": "Petrov Alexander",
+  "attributes": {
+    "birth_date": {
+      "match": true
+    }
+  },
+  "result": {
+    "exact_match": false,
+    "score": 87,
+    "match_type": "possible_match",
+    "best_match1": "петров александр",
+    "best_match2": "petrov alexander",
+    "levenshtein_score": 1,
+    "jaro_winkler_score": 0.95,
+    "phonetic_score": 1,
+    "processing_time_ms": 2
+  }
+}
+{
+  "timestamp": "2025-03-20T14:28:29+03:00",
+  "name1": "Петров Александр",
+  "name2": "Petrov Alexander",
+  "attributes": {
+    "country": {
+      "match": true
+    }
+  },
+  "result": {
+    "exact_match": false,
+    "score": 87,
+    "match_type": "possible_match",
+    "best_match1": "петров александр",
+    "best_match2": "petrov alexander",
+    "levenshtein_score": 1,
+    "jaro_winkler_score": 0.95,
+    "phonetic_score": 1,
+    "processing_time_ms": 1
+  }
+}
+{
+  "timestamp": "2025-03-20T14:28:29+03:00",
+  "name1": "Петров Александр",
+  "name2": "Petrov Alexander",
+  "attributes": {
+    "birth_date": {
+      "match": true
+    },
+    "country": {
+      "match": true
+    }
+  },
+  "result": {
+    "exact_match": false,
+    "score": 87,
+    "match_type": "possible_match",
+    "best_match1": "петров александр",
+    "best_match2": "petrov alexander",
+    "levenshtein_score": 1,
+    "jaro_winkler_score": 0.95,
+    "phonetic_score": 1,
+    "processing_time_ms": 1
+  }
+}
+{
+  "timestamp": "2025-03-20T14:28:29+03:00",
+  "name1": "Олексей Шевченко",
+  "name2": "Oleksii Shevchenko",
+  "result": {
+    "exact_match": false,
+    "score": 87,
+    "match_type": "possible_match",
+    "best_match1": "шевченко олексей",
+    "best_match2": "shevchenko oleksii",
+    "levenshtein_score": 1,
+    "jaro_winkler_score": 0.9555555555555556,
+    "phonetic_score": 1,
+    "processing_time_ms": 1
+  }
+}
+{
+  "timestamp": "2025-03-20T14:28:29+03:00",
+  "name1": "Иванов Иван Иванович Иваныч",
+  "name2": "Иванов",
+  "result": {
+    "exact_match": false,
+    "score": 86,
+    "match_type": "possible_match",
+    "best_match1": "иванов иван иванович иваныч",
+    "best_match2": "иванов",
+    "levenshtein_score": 1,
+    "jaro_winkler_score": 0.8470588235294118,
+    "phonetic_score": 1,
+    "cosine_score": 0.8726617108241094,
+    "processing_time_ms": 0
+  }
+}
+{
+  "timestamp": "2025-03-20T14:28:29+03:00",
+  "name1": "Петров Александр",
+  "name2": "Ptrov Aleksander",
+  "result": {
+    "exact_match": false,
+    "score": 87,
+    "match_type": "possible_match",
+    "best_match1": "александр петров",
+    "best_match2": "aleksander ptrov",
+    "levenshtein_score": 1,
+    "jaro_winkler_score": 0.975,
+    "phonetic_score": 1,
+    "processing_time_ms": 2
+  }
+}

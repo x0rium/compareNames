@@ -59,7 +59,7 @@ func MatchNamesHandler(w http.ResponseWriter, r *http.Request) {
 		config.EnableCaching = false
 	}
 
-	// Выполняем сравнение имен
+	// Выполняем сравнение имен через оригинальную функцию
 	result := matcher.MatchNames(
 		requestBody.Name1,
 		requestBody.Name2,

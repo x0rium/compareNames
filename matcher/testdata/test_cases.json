@@ -1,0 +1,285 @@
+[
+  {
+    "name": "Точное совпадение кириллица",
+    "name1": "Иванов Иван Иванович",
+    "name2": "Иванов Иван Иванович",
+    "expected_match_type": "match",
+    "expected_score_range": "95-100"
+  },
+  {
+    "name": "Точное совпадение латиница",
+    "name1": "John Smith",
+    "name2": "John Smith",
+    "expected_match_type": "match",
+    "expected_score_range": "95-100"
+  },
+  {
+    "name": "Транслитерация ISO 9",
+    "name1": "Иванов Иван Иванович",
+    "name2": "Ivanov Ivan Ivanovič",
+    "expected_match_type": "match",
+    "expected_score_range": "90-100"
+  },
+  {
+    "name": "Транслитерация ГОСТ",
+    "name1": "Иванов Иван Иванович",
+    "name2": "Ivanov Ivan Ivanovich",
+    "expected_match_type": "match",
+    "expected_score_range": "90-100"
+  },
+  {
+    "name": "Транслитерация BGN/PCGN",
+    "name1": "Иванов Иван Иванович",
+    "name2": "Ivanov Ivan Ivanovich",
+    "expected_match_type": "match",
+    "expected_score_range": "90-100"
+  },
+  {
+    "name": "Транслитерация UNGEGN",
+    "name1": "Иванов Иван Иванович",
+    "name2": "Ivanov Ivan Ivanovič",
+    "expected_match_type": "match",
+    "expected_score_range": "90-100"
+  },
+  {
+    "name": "Распространенное имя - вариант 1",
+    "name1": "Алексей Смирнов",
+    "name2": "Alexey Smirnov",
+    "expected_match_type": "possible_match",
+    "expected_score_range": "70-89"
+  },
+  {
+    "name": "Распространенное имя - вариант 2",
+    "name1": "Алексей Смирнов",
+    "name2": "Aleksei Smirnov",
+    "expected_match_type": "possible_match",
+    "expected_score_range": "70-89"
+  },
+  {
+    "name": "Распространенное имя - вариант 3",
+    "name1": "Алексей Смирнов",
+    "name2": "Aleksey Smirnov",
+    "expected_match_type": "match",
+    "expected_score_range": "90-100"
+  },
+  {
+    "name": "Распространенное имя - другой вариант",
+    "name1": "Евгений Белов",
+    "name2": "Eugene Belov",
+    "expected_match_type": "possible_match",
+    "expected_score_range": "70-89"
+  },
+  {
+    "name": "Опечатка в имени",
+    "name1": "Петров Сергей Александрович",
+    "name2": "Петров Сергй Александрович",
+    "expected_match_type": "match",
+    "expected_score_range": "85-100"
+  },
+  {
+    "name": "Опечатка в транслитерации",
+    "name1": "Johnson Michael",
+    "name2": "Johson Michael",
+    "expected_match_type": "possible_match",
+    "expected_score_range": "75-89"
+  },
+  {
+    "name": "Перестановка ФИО",
+    "name1": "Иванов Петр Сергеевич",
+    "name2": "Петр Иванов Сергеевич",
+    "expected_match_type": "match",
+    "expected_score_range": "85-100"
+  },
+  {
+    "name": "Перестановка в транслитерации",
+    "name1": "Smith John",
+    "name2": "John Smith",
+    "expected_match_type": "match",
+    "expected_score_range": "85-100"
+  },
+  {
+    "name": "Отсутствие отчества",
+    "name1": "Иванов Иван Петрович",
+    "name2": "Иванов Иван",
+    "expected_match_type": "match",
+    "expected_score_range": "85-100"
+  },
+  {
+    "name": "Отсутствие отчества в транслитерации",
+    "name1": "Иванов Иван Петрович",
+    "name2": "Ivanov Ivan",
+    "expected_match_type": "match",
+    "expected_score_range": "85-100"
+  },
+  {
+    "name": "Сложный случай - транслитерация и перестановка",
+    "name1": "Алехин Сергей Николаевич",
+    "name2": "Sergey Alekhin",
+    "expected_match_type": "match",
+    "expected_score_range": "85-100"
+  },
+  {
+    "name": "Сложный случай - транслитерация и перестановка с отчеством",
+    "name1": "Ольга Сергеевна Краснова",
+    "name2": "Krasnova Olga",
+    "expected_match_type": "match",
+    "expected_score_range": "85-100"
+  },
+  {
+    "name": "Несовпадение - разные имена",
+    "name1": "Иванов Петр Сергеевич",
+    "name2": "Петров Иван Сергеевич",
+    "expected_match_type": "possible_match",
+    "expected_score_range": "70-89"
+  },
+  {
+    "name": "Несовпадение - похожие имена",
+    "name1": "John Smith",
+    "name2": "Jack Smith",
+    "expected_match_type": "no_match",
+    "expected_score_range": "50-69"
+  },
+  {
+    "name": "Инициалы вместо полного имени",
+    "name1": "Петров И. С.",
+    "name2": "Петров Иван Сергеевич",
+    "expected_match_type": "match",
+    "expected_score_range": "90-100"
+  },
+  {
+    "name": "Инициалы вместо полного имени в транслитерации",
+    "name1": "Petrov I. S.",
+    "name2": "Petrov Ivan Sergeevich",
+    "expected_match_type": "match",
+    "expected_score_range": "90-100"
+  },
+  {
+    "name": "Пустое имя",
+    "name1": "",
+    "name2": "Иванов Иван",
+    "expected_match_type": "no_match",
+    "expected_score_range": "0-10"
+  },
+  {
+    "name": "Короткое имя vs длинное",
+    "name1": "Ив",
+    "name2": "Иванов Иван Иванович",
+    "expected_match_type": "no_match",
+    "expected_score_range": "0-30"
+  },
+  {
+    "name": "С дополнительными атрибутами - совпадение даты рождения",
+    "name1": "Петров Александр",
+    "name2": "Petrov Alexander",
+    "attributes": {
+      "birth_date": {"match": true}
+    },
+    "expected_match_type": "match",
+    "expected_score_range": "90-100"
+  },
+  {
+    "name": "С дополнительными атрибутами - совпадение страны",
+    "name1": "Петров Александр",
+    "name2": "Petrov Alexander",
+    "attributes": {
+      "country": {"match": true}
+    },
+    "expected_match_type": "match",
+    "expected_score_range": "85-95"
+  },
+  {
+    "name": "С дополнительными атрибутами - все совпадения",
+    "name1": "Петров Александр",
+    "name2": "Petrov Alexander",
+    "attributes": {
+      "birth_date": {"match": true},
+      "country": {"match": true}
+    },
+    "expected_match_type": "match",
+    "expected_score_range": "90-100"
+  },
+  {
+    "name": "Пользовательские веса алгоритмов",
+    "name1": "Петров Александр",
+    "name2": "Ptrov Aleksander",
+    "config": {
+      "levenshtein_weight": 0.6,
+      "jaro_winkler_weight": 0.1,
+      "phonetic_weight": 0.3,
+      "additional_attributes_weight": 0.1
+    },
+    "expected_match_type": "match",
+    "expected_score_range": "90-100"
+  },
+  {
+    "name": "Двойная фамилия через дефис",
+    "name1": "Иванов-Петров Сергей",
+    "name2": "Иванов Петров Сергей",
+    "expected_match_type": "match",
+    "expected_score_range": "85-100"
+  },
+  {
+    "name": "Двойная фамилия через дефис - транслитерация",
+    "name1": "Иванов-Петров Сергей",
+    "name2": "Ivanov Petrov Sergey",
+    "expected_match_type": "match",
+    "expected_score_range": "85-100"
+  },
+  {
+    "name": "С косинусным весом",
+    "name1": "Алексеев Петр Николаевич",
+    "name2": "Николаевич Алексеев Петр",
+    "config": {
+      "cosine_weight": 0.5,
+      "levenshtein_weight": 0.2,
+      "jaro_winkler_weight": 0.2,
+      "phonetic_weight": 0.1
+    },
+    "expected_match_type": "match",
+    "expected_score_range": "90-100"
+  },
+  {
+    "name": "С кэшированием",
+    "name1": "Сидоров Василий",
+    "name2": "Sidorov Vasiliy",
+    "config": {
+      "enable_caching": true
+    },
+    "expected_match_type": "match",
+    "expected_score_range": "85-100"
+  },
+  {
+    "name": "Без кэширования",
+    "name1": "Сидоров Василий",
+    "name2": "Sidorov Vasiliy",
+    "config": {
+      "enable_caching": false
+    },
+    "expected_match_type": "match",
+    "expected_score_range": "85-100"
+  },
+  {
+    "name": "С заданным размером n-граммы",
+    "name1": "Полухин Александр",
+    "name2": "Polukhin Alexander",
+    "config": {
+      "ngram_size": 2
+    },
+    "expected_match_type": "match",
+    "expected_score_range": "85-100"
+  },
+  {
+    "name": "Сложный случай - имя с дефисом",
+    "name1": "Анна-Мария Кузнецова",
+    "name2": "Anna-Maria Kuznetsova",
+    "expected_match_type": "match",
+    "expected_score_range": "85-100"
+  },
+  {
+    "name": "Сложный случай - имя с апострофом",
+    "name1": "О'Нил Джеймс",
+    "name2": "O'Neil James",
+    "expected_match_type": "match",
+    "expected_score_range": "85-100"
+  }
+]
