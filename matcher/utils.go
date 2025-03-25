@@ -2,7 +2,6 @@ package matcher
 
 import (
 	"regexp"
-	"sort"
 	"strings"
 )
 
@@ -29,10 +28,10 @@ func (m *NameMatcher) PreprocessName(name string) string {
 	return strings.TrimSpace(name)
 }
 
-// preprocessName внутренний метод предобработки имени, использующий экспортированную версию
-func (m *NameMatcher) preprocessName(name string) string {
-	return m.PreprocessName(name)
-}
+// Внутренний метод предобработки имени - закомментирован, так как не используется
+// func (m *NameMatcher) preprocessName(name string) string {
+// 	return m.PreprocessName(name)
+// }
 
 // Проверяет, содержит ли имя инициалы
 func (m *NameMatcher) hasInitials(name string) bool {
@@ -108,7 +107,8 @@ func (m *NameMatcher) normalizeNameParts(name string) []string {
 	return result
 }
 
-// Генерирует различные вариации имени, включая перестановки
+// Генерирует различные вариации имени, включая перестановки - закомментирован, так как не используется
+/*
 func (m *NameMatcher) getNameVariations(name string) []string {
 	// Проверяем кэш
 	if variations, ok := m.nameVariantions[name]; ok {
@@ -203,5 +203,6 @@ func (m *NameMatcher) getNameVariations(name string) []string {
 
 	return variations
 }
+*/
 
 // Функции для работы с кэшем перенесены в cache.go

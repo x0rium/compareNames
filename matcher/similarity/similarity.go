@@ -61,7 +61,7 @@ func LevenshteinSimilarity(s1, s2 string) float64 {
 
 	// Для коротких строк (<=3 символа) - специальная обработка
 	if len(s1) <= 3 || len(s2) <= 3 {
-		if strings.ToLower(s1) == strings.ToLower(s2) {
+		if strings.EqualFold(s1, s2) {
 			return 1.0
 		}
 		return 0.0
@@ -70,7 +70,7 @@ func LevenshteinSimilarity(s1, s2 string) float64 {
 	// Префиксное совпадение (для бонуса)
 	prefixLen := 0
 	for i := 0; i < min(len(s1), len(s2)); i++ {
-		if strings.ToLower(string(s1[i])) == strings.ToLower(string(s2[i])) {
+		if strings.EqualFold(string(s1[i]), string(s2[i])) {
 			prefixLen++
 		} else {
 			break
@@ -107,7 +107,7 @@ func JaroSimilarity(s1, s2 string) float64 {
 
 	// Для коротких строк - специальная обработка
 	if len(s1) <= 3 || len(s2) <= 3 {
-		if strings.ToLower(s1) == strings.ToLower(s2) {
+		if strings.EqualFold(s1, s2) {
 			return 1.0
 		}
 		return 0.0
@@ -317,7 +317,7 @@ func PhoneticSimilarity(s1, s2 string) float64 {
 
 	// Добавляем бонус за совпадение первых букв
 	if len(words1) > 0 && len(words2) > 0 &&
-		strings.ToLower(string(words1[0][0])) == strings.ToLower(string(words2[0][0])) {
+		strings.EqualFold(string(words1[0][0]), string(words2[0][0])) {
 		baseScore += 0.1
 	}
 
@@ -382,7 +382,7 @@ func arePhoneticallyClose(word1, word2 string) bool {
 	}
 
 	// Первые буквы должны совпадать
-	if strings.ToLower(string(word1[0])) != strings.ToLower(string(word2[0])) {
+	if !strings.EqualFold(string(word1[0]), string(word2[0])) {
 		return false
 	}
 

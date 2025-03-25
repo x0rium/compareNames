@@ -76,7 +76,7 @@ func ProcessInitials(name1, name2 string, hasInitials1, hasInitials2 bool) (Init
 		// Проверяем транслитерированные инициалы
 		if translit.IsCyrillic(initialsName) != translit.IsCyrillic(fullName) {
 			// Получаем транслитерации инициалов
-			translitMatches := matchTransliteratedInitials(initials, firstLetters, initialsName)
+			translitMatches := matchTransliteratedInitials(initials, firstLetters)
 
 			if translitMatches > 0 {
 				matchType := "possible_match"
@@ -208,7 +208,7 @@ func matchInitialsWithFirstLetters(initials, firstLetters []rune) int {
 
 // matchTransliteratedInitials проверяет совпадение транслитерированных инициалов
 // с первыми буквами полного имени
-func matchTransliteratedInitials(initials, firstLetters []rune, initialsName string) int {
+func matchTransliteratedInitials(initials, firstLetters []rune) int {
 	if len(initials) == 0 {
 		return 0
 	}

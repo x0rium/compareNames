@@ -94,10 +94,10 @@ func NewNameMatcher(cfg *Config) *NameMatcher {
 	return matcher
 }
 
-// Вспомогательная функция для вычисления абсолютного значения разницы
-func abs(x int) int {
-	if x < 0 {
-		return -x
-	}
-	return x
-}
+// Вспомогательная функция для вычисления абсолютного значения разницы - закомментирована, так как не используется
+// func abs(x int) int {
+// 	if x < 0 {
+// 		return -x
+// 	}
+// 	return x
+// }
