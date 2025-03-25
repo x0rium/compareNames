@@ -62,22 +62,31 @@ else
     # Не завершаем скрипт с ошибкой, чтобы можно было продолжить работу
 fi
 
-# Запускаем демонстрационный сервис
-echo -e "\n${YELLOW}Запускаем сервис для демонстрации...${NC}"
-./compareNames > /dev/null 2>&1 &
-SERVER_PID=$!
-sleep 1
+# Проверяем, запущен ли скрипт в CI окружении
+if [ -z "$CI" ]; then
+    # Локальный запуск - включаем демонстрационный режим
+    # Запускаем демонстрационный сервис
+    echo -e "\n${YELLOW}Запускаем сервис для демонстрации...${NC}"
+    ./compareNames > /dev/null 2>&1 &
+    SERVER_PID=$!
+    sleep 1
 
-if is_service_running; then
-    echo -e "${GREEN}Сервис успешно запущен на порту 8080${NC}"
-    echo -e "\n${YELLOW}Примеры запросов:${NC}"
-    echo -e "curl -X POST http://localhost:8080/api/match_names -H \"Content-Type: application/json\" -d '{\"name1\": \"Иван Иванов\", \"name2\": \"Ivan Ivanov\"}'"
-    echo -e "curl -X POST http://localhost:8080/api/match_names -H \"Content-Type: application/json\" -d '{\"name1\": \"John Smith\", \"name2\": \"J. Smith\"}'"
-    echo -e "\n${YELLOW}Для остановки сервиса нажмите Ctrl+C${NC}"
-    
-    # Ждем нажатия Ctrl+C
-    wait $SERVER_PID
+    if is_service_running; then
+        echo -e "${GREEN}Сервис успешно запущен на порту 8080${NC}"
+        echo -e "\n${YELLOW}Примеры запросов:${NC}"
+        echo -e "curl -X POST http://localhost:8080/api/match_names -H \"Content-Type: application/json\" -d '{\"name1\": \"Иван Иванов\", \"name2\": \"Ivan Ivanov\"}'"
+        echo -e "curl -X POST http://localhost:8080/api/match_names -H \"Content-Type: application/json\" -d '{\"name1\": \"John Smith\", \"name2\": \"J. Smith\"}'"
+        echo -e "\n${YELLOW}Для остановки сервиса нажмите Ctrl+C${NC}"
+        
+        # Ждем нажатия Ctrl+C
+        wait $SERVER_PID
+    else
+        echo -e "${RED}Не удалось запустить сервис!${NC}"
+        exit 1
+    fi
 else
-    echo -e "${RED}Не удалось запустить сервис!${NC}"
-    exit 1
+    # CI окружение - завершаем работу сразу после тестов
+    echo -e "\n${YELLOW}Запуск в CI окружении, демонстрационный сервис не запускается${NC}"
+    # Возвращаем код ошибки из тестов
+    exit $TEST_RESULT
 fi
